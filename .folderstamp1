@@ -1,0 +1,75 @@
+This folder: /media/daniella/44281591-5347-4eba-89a4-559db4e045c0
+
+folderstamp version: r5
+Method: Non-recursive
+
+  File: ./at Seagate increment
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: 8,17	Inode: 64356355    Links: 3
+Access: (0775/drwxrwxr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-03-24 23:46:44.405083139 -0300
+Modify: 2024-03-19 19:51:48.637976118 -0300
+Change: 2024-03-19 19:51:48.637976118 -0300
+ Birth: 2024-03-19 19:50:58.007263224 -0300
+IPFS hash: 
+------------------------------
+  File: ./at Seagate rmv the original bc the up-to-date will be this
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: 8,17	Inode: 64356353    Links: 5
+Access: (0775/drwxrwxr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-03-24 23:46:44.405083139 -0300
+Modify: 2024-03-23 21:11:01.786388333 -0300
+Change: 2024-03-23 21:11:01.786388333 -0300
+ Birth: 2024-03-19 19:45:00.622631075 -0300
+IPFS hash: 
+------------------------------
+  File: ./ConstantBackup
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: 8,17	Inode: 171048961   Links: 4
+Access: (0775/drwxrwxr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-03-24 23:46:44.309083138 -0300
+Modify: 2024-02-28 15:59:02.667376698 -0300
+Change: 2024-02-28 15:59:02.667376698 -0300
+ Birth: 2024-02-25 06:04:50.527007548 -0300
+IPFS hash: 
+------------------------------
+  File: ./Dupliced+Outdated - check which ones safe to rmv-updt
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: 8,17	Inode: 171180033   Links: 8
+Access: (0775/drwxrwxr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-03-24 23:46:44.133083136 -0300
+Modify: 2024-03-20 23:03:29.322859368 -0300
+Change: 2024-03-20 23:03:29.322859368 -0300
+ Birth: 2024-02-25 06:05:42.110874665 -0300
+IPFS hash: 
+------------------------------
+  File: ./non-backup
+  Size: 106496    	Blocks: 208        IO Block: 4096   directory
+Device: 8,17	Inode: 138608641   Links: 8
+Access: (0775/drwxrwxr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-03-24 23:46:44.381083139 -0300
+Modify: 2024-02-29 03:52:28.890421580 -0300
+Change: 2024-02-29 03:52:28.890421580 -0300
+ Birth: 2023-11-07 02:09:37.998668760 -0300
+IPFS hash: 
+------------------------------
+  File: ./rmv
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: 8,17	Inode: 171114497   Links: 2
+Access: (0775/drwxrwxr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-03-24 23:46:44.281083138 -0300
+Modify: 2024-02-26 17:41:33.512442384 -0300
+Change: 2024-02-26 17:41:33.512442384 -0300
+ Birth: 2024-02-25 06:05:22.742924434 -0300
+IPFS hash: 
+------------------------------
+  File: ./TmpRecordingsRepo
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: 8,17	Inode: 65077249    Links: 2
+Access: (0775/drwxrwxr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-03-24 23:46:47.585083174 -0300
+Modify: 2024-03-24 23:46:47.581083174 -0300
+Change: 2024-03-24 23:46:55.469083262 -0300
+ Birth: 2024-03-24 23:46:47.581083174 -0300
+IPFS hash: 
+------------------------------
