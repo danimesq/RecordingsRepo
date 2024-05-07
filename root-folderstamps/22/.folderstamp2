@@ -1,0 +1,65 @@
+This folder: /media/daniella/A/tmp use/DiaryLog/Recordings/Audio/External-Surroundings/2022
+
+folderstamp version: r5
+Method: Non-recursive
+
+  File: ./01
+  Size: 8192      	Blocks: 16         IO Block: 4096   directory
+Device: 8,51	Inode: 21545       Links: 1
+Access: (0777/drwxrwxrwx)  Uid: (    0/    root)   Gid: (    0/    root)
+Access: 2024-03-04 02:50:14.712560700 -0300
+Modify: 2023-01-08 12:58:15.505914100 -0300
+Change: 2023-01-08 12:58:17.419524100 -0300
+ Birth: -
+IPFS hash: 
+------------------------------
+  File: ./02
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: 8,51	Inode: 21546       Links: 1
+Access: (0777/drwxrwxrwx)  Uid: (    0/    root)   Gid: (    0/    root)
+Access: 2024-03-04 02:50:14.728186400 -0300
+Modify: 2023-01-08 12:58:38.533096500 -0300
+Change: 2023-01-08 12:58:39.881955900 -0300
+ Birth: -
+IPFS hash: 
+------------------------------
+  File: ./03
+  Size: 20480     	Blocks: 40         IO Block: 4096   directory
+Device: 8,51	Inode: 21547       Links: 1
+Access: (0777/drwxrwxrwx)  Uid: (    0/    root)   Gid: (    0/    root)
+Access: 2024-03-04 02:50:14.743814800 -0300
+Modify: 2023-01-08 12:59:02.427409600 -0300
+Change: 2023-01-08 12:59:03.899112000 -0300
+ Birth: -
+IPFS hash: 
+------------------------------
+  File: ./20220402-1624_Recording_725.wav
+  Size: 1650019234	Blocks: 3222696    IO Block: 4096   regular file
+Device: 8,51	Inode: 2870893     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: (    0/    root)   Gid: (    0/    root)
+Access: 2022-12-16 11:57:20.745336900 -0300
+Modify: 2022-04-03 02:48:12.000000000 -0300
+Change: 2023-01-08 12:59:07.234927000 -0300
+ Birth: -
+IPFS hash: QmPH3t1jvS6rJucz8YMsLynk8yhqyCfSgxBvCFoF7dF3uJ
+------------------------------
+  File: ./folderstamp_recursive.sh
+  Size: 2365      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,51	Inode: 21552       Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: (    0/    root)   Gid: (    0/    root)
+Access: 2023-01-08 13:01:28.078081800 -0300
+Modify: 2022-11-22 18:45:33.375753300 -0300
+Change: 2023-01-08 13:01:06.942022000 -0300
+ Birth: -
+IPFS hash: QmRmYGZyeoWY4jHLex4didmsviDWE3BDhMjuRicfENGBm2
+------------------------------
+  File: ./imp rc
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: 8,51	Inode: 2864792     Links: 1
+Access: (0777/drwxrwxrwx)  Uid: (    0/    root)   Gid: (    0/    root)
+Access: 2024-04-21 11:58:05.470316700 -0300
+Modify: 2024-04-21 11:58:05.278135700 -0300
+Change: 2024-04-21 11:58:05.278135700 -0300
+ Birth: -
+IPFS hash: 
+------------------------------

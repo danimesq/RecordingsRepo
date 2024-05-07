@@ -1,0 +1,1675 @@
+This folder: /media/daniella/44281591-5347-4eba-89a4-559db4e045c0/non-backup/Partitions/A/tmp use/DiaryLog/Recordings/Audio/External-Surroundings/A_on-hold-until-adding-new-file-detection-server-to-danimesq/2024/04
+
+folderstamp version: r5
+Method: Recursive
+
+  File: ./.folderstamp
+  Size: 258       	Blocks: 8          IO Block: 4096   regular file
+Device: 8,33	Inode: 144330112   Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-04 17:50:51.370222879 -0300
+Modify: 2024-05-04 17:50:51.409222625 -0300
+Change: 2024-05-04 17:50:51.409222625 -0300
+ Birth: 2024-05-04 17:50:51.370222879 -0300
+IPFS hash: QmXeMujNh7pjoqH7YfpHTMN4m2SXsfCyR3pvFswVVZnjrA
+------------------------------
+  File: ./.folderstamp4
+  Size: 6340      	Blocks: 16         IO Block: 4096   regular file
+Device: 8,33	Inode: 144330039   Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-30 21:00:00.000000000 -0300
+Modify: 2024-05-01 13:14:18.000000000 -0300
+Change: 2024-05-01 13:40:30.226497637 -0300
+ Birth: 2024-05-01 13:40:30.221497698 -0300
+IPFS hash: QmURq22HJtTaYU1anvRFfsz8HmptxeFqbin2j4iY6ifuf9
+------------------------------
+  File: ./.folderstamp1.log.html5
+  Size: 1374      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,33	Inode: 144329918   Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-26 21:00:00.000000000 -0300
+Modify: 2024-04-26 22:10:26.000000000 -0300
+Change: 2024-04-26 22:11:28.674348152 -0300
+ Birth: 2024-04-26 22:11:28.671348233 -0300
+IPFS hash: QmeUGsjgPbXUL5e8i9g6AumevtBYiZLVK6jUdcEnNwjnr6
+------------------------------
+  File: ./.folderstamp1
+  Size: 10010     	Blocks: 24         IO Block: 4096   regular file
+Device: 8,33	Inode: 144329917   Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-26 21:00:00.000000000 -0300
+Modify: 2024-04-26 22:09:54.000000000 -0300
+Change: 2024-04-26 22:11:28.671348233 -0300
+ Birth: 2024-04-26 22:11:28.667348342 -0300
+IPFS hash: Qmbpp7Zuyid3wZPXaWeuU9SkbLkRSVGyY5nf2H2VLsMx6Y
+------------------------------
+  File: ./Voice Recorder/Voz 1735.m4a
+  Size: 144196    	Blocks: 288        IO Block: 4096   regular file
+Device: 8,33	Inode: 144330105   Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-03 18:47:00.000000000 -0300
+Modify: 2024-04-26 22:52:48.000000000 -0300
+Change: 2024-05-04 17:47:38.733441385 -0300
+ Birth: 2024-05-04 17:47:38.727441422 -0300
+IPFS hash: QmUbAydaQdZH1CUJM1764pys3wxTCWTEVs1VQXNrAZVTgk
+------------------------------
+  File: ./Voice Recorder/Voz 1713.m4a
+  Size: 985231473 	Blocks: 1924296    IO Block: 4096   regular file
+Device: 8,33	Inode: 144329977   Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-26 22:16:42.000000000 -0300
+Modify: 2024-04-24 11:41:59.000000000 -0300
+Change: 2024-05-04 17:36:51.774562218 -0300
+ Birth: 2024-04-26 22:37:59.175571000 -0300
+IPFS hash: QmbeCDSYxDPDArxnCZZjhnEjsp6i7zvLX6krNA3Sk1nkQA
+------------------------------
+  File: ./Voice Recorder/Voz 1709.m4a
+  Size: 563880    	Blocks: 1104       IO Block: 4096   regular file
+Device: 8,33	Inode: 144329973   Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-26 22:16:36.000000000 -0300
+Modify: 2024-04-23 17:32:41.000000000 -0300
+Change: 2024-05-04 17:36:51.767562238 -0300
+ Birth: 2024-04-26 22:37:55.166307580 -0300
+IPFS hash: QmUCqTdGcRNjufnc7vfFFywoU5BRXFdDK3yWQJdS6MWTxP
+------------------------------
+  File: ./Voice Recorder/Voz 1739.m4a
+  Size: 290898    	Blocks: 576        IO Block: 4096   regular file
+Device: 8,33	Inode: 144330058   Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-04 16:56:58.000000000 -0300
+Modify: 2024-04-27 12:45:47.000000000 -0300
+Change: 2024-05-04 17:37:44.478399161 -0300
+ Birth: 2024-05-04 17:37:44.470399188 -0300
+IPFS hash: QmWZvg2shXPjx5twnDt4sQLH1GjF6Y8z1SZb16vZeSh2BT
+------------------------------
+  File: ./Voice Recorder/Voz 1722.m4a
+  Size: 28183856  	Blocks: 55048      IO Block: 4096   regular file
+Device: 8,33	Inode: 144329989   Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-26 22:53:14.000000000 -0300
+Modify: 2024-04-24 19:40:53.000000000 -0300
+Change: 2024-05-04 17:36:51.791562169 -0300
+ Birth: 2024-04-26 23:24:05.465546205 -0300
+IPFS hash: QmUJ8FpimZqMToPjcULmu79zQNzdZkfV3StZCnHgL7eKjE
+------------------------------
+  File: ./Voice Recorder/Voz 1717.m4a
+  Size: 30786810  	Blocks: 60136      IO Block: 4096   regular file
+Device: 8,33	Inode: 144329981   Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-26 22:17:00.000000000 -0300
+Modify: 2024-04-24 16:17:51.000000000 -0300
+Change: 2024-05-04 17:36:51.781562198 -0300
+ Birth: 2024-04-26 22:38:13.354496384 -0300
+IPFS hash: QmRsZzsZ8fdQjCHCAYJjXZZRqfPRnYYpE6QMTaQvt6GykL
+------------------------------
+  File: ./Voice Recorder/Voz 1744.m4a
+  Size: 733266775 	Blocks: 1432176    IO Block: 4096   regular file
+Device: 8,33	Inode: 144330063   Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-04 16:57:12.000000000 -0300
+Modify: 2024-04-27 23:40:21.000000000 -0300
+Change: 2024-05-04 17:37:56.006360464 -0300
+ Birth: 2024-05-04 17:37:47.699388455 -0300
+IPFS hash: QmaCXTn6BrzGdjnHogoNkwZLVohsyxTjAMzo4d7PQNniBC
+------------------------------
+  File: ./Voice Recorder/Voz 1748.m4a
+  Size: 54630399  	Blocks: 106704     IO Block: 4096   regular file
+Device: 8,33	Inode: 144330067   Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-04 16:58:38.000000000 -0300
+Modify: 2024-04-28 18:14:56.000000000 -0300
+Change: 2024-05-04 17:38:20.187275954 -0300
+ Birth: 2024-05-04 17:38:19.583278118 -0300
+IPFS hash: Qme5KP1CZGLJCNEtq1NksdP3tQRCfn1kszGfKPMKDUCZnu
+------------------------------
+  File: ./Voice Recorder/Voz 1640.m4a
+  Size: 5935478   	Blocks: 11600      IO Block: 4096   regular file
+Device: 8,33	Inode: 144329902   Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-26 21:00:00.000000000 -0300
+Modify: 2024-04-17 22:03:54.000000000 -0300
+Change: 2024-05-04 17:36:51.614562676 -0300
+ Birth: 2024-04-26 22:10:52.926314478 -0300
+IPFS hash: QmUi4F4bhRH5G5Ch9mehqDtZDDp583UWfbx7tzZpTQ8C3x
+------------------------------
+  File: ./Voice Recorder/Voz 1667.m4a
+  Size: 8779731   	Blocks: 17152      IO Block: 4096   regular file
+Device: 8,33	Inode: 144329931   Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-26 22:14:56.000000000 -0300
+Modify: 2024-04-20 17:48:07.000000000 -0300
+Change: 2024-05-04 17:36:51.670562516 -0300
+ Birth: 2024-04-26 22:36:38.249083775 -0300
+IPFS hash: QmVbq8x3aCJuZBvddBWX5VyivUzot1CAT18PcJxPc2xoRc
+------------------------------
+  File: ./Voice Recorder/Voz 1643.m4a
+  Size: 6063605   	Blocks: 11848      IO Block: 4096   regular file
+Device: 8,33	Inode: 144329905   Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-26 21:00:00.000000000 -0300
+Modify: 2024-04-18 09:19:02.000000000 -0300
+Change: 2024-05-04 17:36:51.626562642 -0300
+ Birth: 2024-04-26 22:11:07.333924857 -0300
+IPFS hash: QmcbNT8dWaf8BGSEnAJtunvwWBm8zcNK3ktPoYN7f4T4W1
+------------------------------
+  File: ./Voice Recorder/Voz 1727.m4a
+  Size: 2862808   	Blocks: 5592       IO Block: 4096   regular file
+Device: 8,33	Inode: 144329994   Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-26 22:53:38.000000000 -0300
+Modify: 2024-04-25 12:37:51.000000000 -0300
+Change: 2024-05-04 17:36:51.800562143 -0300
+ Birth: 2024-04-26 23:24:08.046334175 -0300
+IPFS hash: Qmcq4LDdwXFs6cVhg3qys3X6Y8NahRMMaxmbSy6JzwgCkc
+------------------------------
+  File: ./Voice Recorder/Voz 1638.m4a
+  Size: 794101    	Blocks: 1552       IO Block: 4096   regular file
+Device: 8,33	Inode: 144329900   Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-26 21:00:00.000000000 -0300
+Modify: 2024-04-17 17:04:42.000000000 -0300
+Change: 2024-05-04 17:36:51.610562688 -0300
+ Birth: 2024-04-26 22:10:48.047446467 -0300
+IPFS hash: QmV9DiG2ZAuFMcUNdxwvhD7jBuHKAqJCy3fBRRviqZbo7p
+------------------------------
+  File: ./Voice Recorder/Voz 1736.m4a
+  Size: 29107591  	Blocks: 56856      IO Block: 4096   regular file
+Device: 8,33	Inode: 144330055   Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-04 16:56:02.000000000 -0300
+Modify: 2024-04-27 00:04:58.000000000 -0300
+Change: 2024-05-04 17:37:31.261442224 -0300
+ Birth: 2024-05-04 17:37:30.936443266 -0300
+IPFS hash: QmV2MX8131KDtft9FPsK3hUBF56meHweK7zrbfFWzANfZe
+------------------------------
+  File: ./Voice Recorder/Voz 1715.m4a
+  Size: 67922657  	Blocks: 132664     IO Block: 4096   regular file
+Device: 8,33	Inode: 144329979   Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-26 22:16:58.000000000 -0300
+Modify: 2024-04-24 13:52:11.000000000 -0300
+Change: 2024-05-04 17:36:51.778562206 -0300
+ Birth: 2024-04-26 22:38:11.742391649 -0300
+IPFS hash: QmUWYyUMB1dVUw1hoaGcfCzwkSX7KAW9wHGcSgGR1mZKxU
+------------------------------
+  File: ./Voice Recorder/Voz 1649.m4a
+  Size: 32591928  	Blocks: 63664      IO Block: 4096   regular file
+Device: 8,33	Inode: 144329911   Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-26 21:00:00.000000000 -0300
+Modify: 2024-04-19 08:27:14.000000000 -0300
+Change: 2024-05-04 17:36:51.637562611 -0300
+ Birth: 2024-04-26 22:11:24.282466801 -0300
+IPFS hash: QmWKzjniNAvZKzsDNccaW9948Xjj2QMR5mZ5kQyJ3d67n9
+------------------------------
+  File: ./Voice Recorder/Voz 1758.m4a
+  Size: 128287    	Blocks: 256        IO Block: 4096   regular file
+Device: 8,33	Inode: 144330109   Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-03 18:47:00.000000000 -0300
+Modify: 2024-04-30 09:04:24.000000000 -0300
+Change: 2024-05-04 17:47:39.779434990 -0300
+ Birth: 2024-05-04 17:47:39.771435039 -0300
+IPFS hash: QmZ3tR9GTcayHPx7pgarFkphuHgo2eoQHvoDuop1M2UU9T
+------------------------------
+  File: ./Voice Recorder/Voz 1708.m4a
+  Size: 14932245  	Blocks: 29168      IO Block: 4096   regular file
+Device: 8,33	Inode: 144329972   Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-26 22:16:36.000000000 -0300
+Modify: 2024-04-23 17:31:49.000000000 -0300
+Change: 2024-05-04 17:36:51.765562244 -0300
+ Birth: 2024-04-26 22:37:54.979295277 -0300
+IPFS hash: QmVfgM6SYSGLHbdzBdpMqVz1H3gkEScXrrhgkyghxt8gz8
+------------------------------
+  File: ./Voice Recorder/Voz 1755.m4a
+  Size: 61624000  	Blocks: 120360     IO Block: 4096   regular file
+Device: 8,33	Inode: 144330106   Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-03 18:53:24.000000000 -0300
+Modify: 2024-04-29 15:10:38.000000000 -0300
+Change: 2024-05-04 17:47:39.409437253 -0300
+ Birth: 2024-05-04 17:47:38.734441379 -0300
+IPFS hash: QmQ2KPKqafpxw8Q24Z1ktRzr8ESzRhE7V8TNAuCnY1rGEW
+------------------------------
+  File: ./Voice Recorder/Voz 1731.m4a
+  Size: 39797919  	Blocks: 77736      IO Block: 4096   regular file
+Device: 8,33	Inode: 144329998   Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-26 22:53:48.000000000 -0300
+Modify: 2024-04-26 15:08:59.000000000 -0300
+Change: 2024-05-04 17:36:51.808562120 -0300
+ Birth: 2024-04-26 23:24:09.751194402 -0300
+IPFS hash: Qmb578bven9XVtbroGhEqNSY6Gw7F33Vhnohs49DH4UZwc
+------------------------------
+  File: ./Voice Recorder/Voz 1696.m4a
+  Size: 12400928  	Blocks: 24224      IO Block: 4096   regular file
+Device: 8,33	Inode: 144329960   Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-26 22:16:04.000000000 -0300
+Modify: 2024-04-22 19:22:56.000000000 -0300
+Change: 2024-05-04 17:36:51.740562315 -0300
+ Birth: 2024-04-26 22:37:31.044705455 -0300
+IPFS hash: QmQ9mjoGCnwayiPTqcnv5yeMBmCvDVLHxCYDjrBudwEqf7
+------------------------------
+  File: ./Voice Recorder/Voz 1701.m4a
+  Size: 86642488  	Blocks: 169224     IO Block: 4096   regular file
+Device: 8,33	Inode: 144329965   Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-26 22:16:26.000000000 -0300
+Modify: 2024-04-23 12:21:08.000000000 -0300
+Change: 2024-05-04 17:36:51.750562287 -0300
+ Birth: 2024-04-26 22:37:48.564872103 -0300
+IPFS hash: QmasVetPJWm1vUEq9Me2CLZhD7Mo5yeEng6Yz8UANQcA6M
+------------------------------
+  File: ./Voice Recorder/Voz 1759.m4a
+  Size: 28439640  	Blocks: 55552      IO Block: 4096   regular file
+Device: 8,33	Inode: 144330110   Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-03 18:47:00.000000000 -0300
+Modify: 2024-04-30 17:30:18.000000000 -0300
+Change: 2024-05-04 17:47:40.093433070 -0300
+ Birth: 2024-05-04 17:47:39.779434990 -0300
+IPFS hash: QmPpmajUDVLQKKUW4yaaqqADd66hJBVti6vMxutohtFt8Y
+------------------------------
+  File: ./Voice Recorder/Voz 1660.m4a
+  Size: 16537452  	Blocks: 32304      IO Block: 4096   regular file
+Device: 8,33	Inode: 144329924   Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-26 22:14:48.000000000 -0300
+Modify: 2024-04-20 12:56:47.000000000 -0300
+Change: 2024-05-04 17:36:51.656562556 -0300
+ Birth: 2024-04-26 22:36:34.158795869 -0300
+IPFS hash: QmZnSnTEaQPR5Bg47UsWWa5ahLcT2guMGv6TpEzCVNaDaF
+------------------------------
+  File: ./Voice Recorder/Voz 1656.m4a
+  Size: 76169470  	Blocks: 148776     IO Block: 4096   regular file
+Device: 8,33	Inode: 144329920   Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-26 22:14:32.000000000 -0300
+Modify: 2024-04-19 23:22:58.000000000 -0300
+Change: 2024-05-04 17:36:51.650562573 -0300
+ Birth: 2024-04-26 22:36:20.478824580 -0300
+IPFS hash: QmTYvaBdzZtKPuJnP49w48tKMmprBjuR1wxn5h6tXiDe9R
+------------------------------
+  File: ./Voice Recorder/Voz 1680.m4a
+  Size: 1163347195	Blocks: 2272176    IO Block: 4096   regular file
+Device: 8,33	Inode: 144329944   Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-26 22:15:36.000000000 -0300
+Modify: 2024-04-22 08:31:57.000000000 -0300
+Change: 2024-05-04 17:36:51.694562447 -0300
+ Birth: 2024-04-26 22:37:09.707261902 -0300
+IPFS hash: QmZGDxuNMK8gs7hvwCko85Pmq1jmnk1hTea6SxdifASER2
+------------------------------
+  File: ./Voice Recorder/Voz 1678.m4a
+  Size: 307225480 	Blocks: 600064     IO Block: 4096   regular file
+Device: 8,33	Inode: 144329942   Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-26 22:15:30.000000000 -0300
+Modify: 2024-04-21 21:05:04.000000000 -0300
+Change: 2024-05-04 17:36:51.690562459 -0300
+ Birth: 2024-04-26 22:37:05.741990733 -0300
+IPFS hash: QmWnpea9TmopeQt4iWFEEX1aJMpr2q7pZ2B7YWL1kwTnXt
+------------------------------
+  File: ./Voice Recorder/Voz 1742.m4a
+  Size: 46207404  	Blocks: 90256      IO Block: 4096   regular file
+Device: 8,33	Inode: 144330061   Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-04 16:57:00.000000000 -0300
+Modify: 2024-04-27 15:04:18.000000000 -0300
+Change: 2024-05-04 17:37:45.466395886 -0300
+ Birth: 2024-05-04 17:37:44.953397588 -0300
+IPFS hash: QmT6rdepTHHF86rtQG7zEwsoM1CYpz8L3MLRQUUBN4V1RL
+------------------------------
+  File: ./Voice Recorder/Voz 1690.m4a
+  Size: 3166171   	Blocks: 6184       IO Block: 4096   regular file
+Device: 8,33	Inode: 144329954   Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-26 22:16:02.000000000 -0300
+Modify: 2024-04-22 16:47:07.000000000 -0300
+Change: 2024-05-04 17:36:51.712562396 -0300
+ Birth: 2024-04-26 22:37:29.598608424 -0300
+IPFS hash: QmQAq2Ph1Tx8Vsgc8oH3bKMcfDy9EayCe1uKnPbACaAvW5
+------------------------------
+  File: ./Voice Recorder/Voz 1685.m4a
+  Size: 95127312  	Blocks: 185800     IO Block: 4096   regular file
+Device: 8,33	Inode: 144329949   Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-26 22:15:56.000000000 -0300
+Modify: 2024-04-22 14:20:08.000000000 -0300
+Change: 2024-05-04 17:36:51.704562419 -0300
+ Birth: 2024-04-26 22:37:26.135375594 -0300
+IPFS hash: Qmb4uoGwhTK3RaxJkqYd8ZTNfXELua72LRUEYCwioHoYzf
+------------------------------
+  File: ./Voice Recorder/Voz 1746.m4a
+  Size: 974654757 	Blocks: 1903632    IO Block: 4096   regular file
+Device: 8,33	Inode: 144330065   Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-04 16:57:58.000000000 -0300
+Modify: 2024-04-28 11:37:27.000000000 -0300
+Change: 2024-05-04 17:38:11.771305870 -0300
+ Birth: 2024-05-04 17:38:00.511345058 -0300
+IPFS hash: QmXmo389sNafShMznYjeedkuuYW2PPJzXoQZxW4TNPCjBS
+------------------------------
+  File: ./Voice Recorder/Voz 1668.m4a
+  Size: 6830417   	Blocks: 13344      IO Block: 4096   regular file
+Device: 8,33	Inode: 144329932   Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-26 22:14:56.000000000 -0300
+Modify: 2024-04-20 17:52:21.000000000 -0300
+Change: 2024-05-04 17:36:51.672562510 -0300
+ Birth: 2024-04-26 22:36:38.353091080 -0300
+IPFS hash: QmQdHGMHtygwJ6nokJxsVNSqEoeuBqLDc7i5doVdZdfuWA
+------------------------------
+  File: ./Voice Recorder/Voz 1745.m4a
+  Size: 406374889 	Blocks: 793712     IO Block: 4096   regular file
+Device: 8,33	Inode: 144330064   Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-04 16:57:46.000000000 -0300
+Modify: 2024-04-28 03:14:42.000000000 -0300
+Change: 2024-05-04 17:38:00.511345058 -0300
+ Birth: 2024-05-04 17:37:56.006360464 -0300
+IPFS hash: QmYF9urCKEwqFTEt5ZTEoEUnvTdCzZifuD8V2oPFjz6v3S
+------------------------------
+  File: ./Voice Recorder/Voz 1639.m4a
+  Size: 442024695 	Blocks: 863344     IO Block: 4096   regular file
+Device: 8,33	Inode: 144329901   Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-26 21:00:00.000000000 -0300
+Modify: 2024-04-17 20:53:12.000000000 -0300
+Change: 2024-05-04 17:36:51.612562682 -0300
+ Birth: 2024-04-26 22:10:48.063446034 -0300
+IPFS hash: QmRK2BJ7EiTGwD6hPLDVcWqRZRxDemEkjBRsj516xGwZxy
+------------------------------
+  File: ./Voice Recorder/Voz 1754.m4a
+  Size: 82628063  	Blocks: 161384     IO Block: 4096   regular file
+Device: 8,33	Inode: 144330073   Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-04 16:58:54.000000000 -0300
+Modify: 2024-04-29 13:09:56.000000000 -0300
+Change: 2024-05-04 17:38:32.919229697 -0300
+ Birth: 2024-05-04 17:38:32.017233013 -0300
+IPFS hash: QmPnERvGNXUsa6baPdVr1PdJXECeaXVxA1rVFF8oiPoNqY
+------------------------------
+  File: ./Voice Recorder/Voz 1719.m4a
+  Size: 165949083 	Blocks: 324120     IO Block: 4096   regular file
+Device: 8,33	Inode: 144329983   Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-26 22:17:02.000000000 -0300
+Modify: 2024-04-24 19:05:23.000000000 -0300
+Change: 2024-05-04 17:36:51.784562189 -0300
+ Birth: 2024-04-26 22:38:14.663581346 -0300
+IPFS hash: QmXvwbAnxEP4UNgzhU5pdPG8b85YFCDMgLXXNTPGZYDQMw
+------------------------------
+  File: ./Voice Recorder/Voz 1723.m4a
+  Size: 55802984  	Blocks: 108992     IO Block: 4096   regular file
+Device: 8,33	Inode: 144329990   Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-26 22:53:14.000000000 -0300
+Modify: 2024-04-24 23:56:34.000000000 -0300
+Change: 2024-05-04 17:36:51.792562166 -0300
+ Birth: 2024-04-26 23:24:05.515542093 -0300
+IPFS hash: QmZcmy3iza2R2y8tE2StKAawFJLy1Ayko2FB9XaPRM7w4D
+------------------------------
+  File: ./Voice Recorder/Voz 1659.m4a
+  Size: 1163347122	Blocks: 2272176    IO Block: 4096   regular file
+Device: 8,33	Inode: 144329923   Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-26 22:14:34.000000000 -0300
+Modify: 2024-04-20 11:47:36.000000000 -0300
+Change: 2024-05-04 17:36:51.654562562 -0300
+ Birth: 2024-04-26 22:36:21.469895390 -0300
+IPFS hash: QmZMpnumP7KppzC54vFiRsRZfZh7zQ59bgLYVcs1STsgz7
+------------------------------
+  File: ./Voice Recorder/Voz 1683.m4a
+  Size: 6219998   	Blocks: 12152      IO Block: 4096   regular file
+Device: 8,33	Inode: 144329947   Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-26 22:15:56.000000000 -0300
+Modify: 2024-04-22 12:12:38.000000000 -0300
+Change: 2024-05-04 17:36:51.700562430 -0300
+ Birth: 2024-04-26 22:37:25.671344344 -0300
+IPFS hash: QmTXgy7QzH25hLYxHGTmUGYXj5sdAX5MEXZn46LPXYBRZm
+------------------------------
+  File: ./Voice Recorder/Voz 1751.m4a
+  Size: 73200571  	Blocks: 142976     IO Block: 4096   regular file
+Device: 8,33	Inode: 144330070   Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-04 16:58:42.000000000 -0300
+Modify: 2024-04-28 23:03:08.000000000 -0300
+Change: 2024-05-04 17:38:23.677263392 -0300
+ Birth: 2024-05-04 17:38:22.881266266 -0300
+IPFS hash: QmNZJq2RuF8fj15nLa7PbU2CVb8xf7PKWW7PZaF1EquoRE
+------------------------------
+  File: ./Voice Recorder/Voz 1702.m4a
+  Size: 371740    	Blocks: 728        IO Block: 4096   regular file
+Device: 8,33	Inode: 144329966   Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-26 22:16:28.000000000 -0300
+Modify: 2024-04-23 12:21:20.000000000 -0300
+Change: 2024-05-04 17:36:51.753562278 -0300
+ Birth: 2024-04-26 22:37:49.582939404 -0300
+IPFS hash: Qmaoif6ZzqbESodfQNwSTR5UT1XyXyeizfgnSZe5oc2Mxa
+------------------------------
+  File: ./Voice Recorder/.folderstamp1
+  Size: 3457      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,33	Inode: 144330053   Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-04 16:56:02.000000000 -0300
+Modify: 2024-04-26 22:38:41.170000000 -0300
+Change: 2024-05-04 17:44:54.577407305 -0300
+ Birth: 2024-05-04 17:37:30.931443282 -0300
+IPFS hash: QmQeXxwnnNqRs2h4cCfwFCjNDaAJHJnx7oihMPB4CmCWPv
+------------------------------
+  File: ./Voice Recorder/Voz 1646.m4a
+  Size: 80450062  	Blocks: 157136     IO Block: 4096   regular file
+Device: 8,33	Inode: 144329908   Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-26 21:00:00.000000000 -0300
+Modify: 2024-04-18 21:54:08.000000000 -0300
+Change: 2024-05-04 17:36:51.632562625 -0300
+ Birth: 2024-04-26 22:11:09.143875926 -0300
+IPFS hash: QmPJ8Xk1pZMtVJqWC8LVn4v1MSBTWWpF3PpLvFp7v7i4Hk
+------------------------------
+  File: ./Voice Recorder/Voz 1750.m4a
+  Size: 121719994 	Blocks: 237744     IO Block: 4096   regular file
+Device: 8,33	Inode: 144330069   Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-04 16:58:42.000000000 -0300
+Modify: 2024-04-28 22:25:22.000000000 -0300
+Change: 2024-05-04 17:38:22.881266266 -0300
+ Birth: 2024-05-04 17:38:21.557271033 -0300
+IPFS hash: QmYKVPpxFdzr9Zkp7AYKijPwrR9zjz7wGfXLo4gZuQ7J9A
+------------------------------
+  File: ./Voice Recorder/Voz 1726.m4a
+  Size: 75473341  	Blocks: 147416     IO Block: 4096   regular file
+Device: 8,33	Inode: 144329993   Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-26 22:53:38.000000000 -0300
+Modify: 2024-04-25 11:19:13.000000000 -0300
+Change: 2024-05-04 17:36:51.798562149 -0300
+ Birth: 2024-04-26 23:24:07.536376037 -0300
+IPFS hash: Qmd36Ch9SRTLue3rrBvzkkHvQD5Zk26xFn1HEzdS8BUypU
+------------------------------
+  File: ./Voice Recorder/Voz 1679.m4a
+  Size: 55730811  	Blocks: 108856     IO Block: 4096   regular file
+Device: 8,33	Inode: 144329943   Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-26 22:15:34.000000000 -0300
+Modify: 2024-04-21 21:34:31.000000000 -0300
+Change: 2024-05-04 17:36:51.692562453 -0300
+ Birth: 2024-04-26 22:37:09.093219975 -0300
+IPFS hash: QmNSHZPrFij3RYFhJ2EoMaASADVrALGMRijxUvvzejdq1M
+------------------------------
+  File: ./Voice Recorder/Voz 1710.m4a
+  Size: 25018737  	Blocks: 48872      IO Block: 4096   regular file
+Device: 8,33	Inode: 144329974   Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-26 22:16:36.000000000 -0300
+Modify: 2024-04-23 17:45:42.000000000 -0300
+Change: 2024-05-04 17:36:51.768562235 -0300
+ Birth: 2024-04-26 22:37:55.178308370 -0300
+IPFS hash: QmQwsAUJppx9s6UUNVmX1PJnej9Sb6ijusyiRAj5eeJVUJ
+------------------------------
+  File: ./Voice Recorder/Voz 1705.m4a
+  Size: 14992435  	Blocks: 29288      IO Block: 4096   regular file
+Device: 8,33	Inode: 144329970   Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-26 22:16:34.000000000 -0300
+Modify: 2024-04-23 17:26:35.000000000 -0300
+Change: 2024-05-04 17:36:51.759562261 -0300
+ Birth: 2024-04-26 22:37:54.697276710 -0300
+IPFS hash: QmXwFLjNe9hYgvEzT1seoJEFQxbW2xFXqusq2Rh84Q9B1t
+------------------------------
+  File: ./Voice Recorder/Voz 1716.m4a
+  Size: 77912402  	Blocks: 152176     IO Block: 4096   regular file
+Device: 8,33	Inode: 144329980   Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-26 22:16:58.000000000 -0300
+Modify: 2024-04-24 16:01:32.000000000 -0300
+Change: 2024-05-04 17:36:51.779562204 -0300
+ Birth: 2024-04-26 22:38:12.493440457 -0300
+IPFS hash: QmW58VrcoxAHucPg9gyC43DsuTZ27CN1f56XU7cRDjAqn8
+------------------------------
+  File: ./Voice Recorder/Voz 1757.m4a
+  Size: 459079    	Blocks: 904        IO Block: 4096   regular file
+Device: 8,33	Inode: 144330108   Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-03 18:47:00.000000000 -0300
+Modify: 2024-04-30 09:02:38.000000000 -0300
+Change: 2024-05-04 17:47:39.770435045 -0300
+ Birth: 2024-05-04 17:47:39.760435106 -0300
+IPFS hash: QmP2cKCH1BaSs4gApxaSSRbu5DXhFTJjEfH9mtqZGTsNEc
+------------------------------
+  File: ./Voice Recorder/Voz 1653.m4a
+  Size: 104184529 	Blocks: 203488     IO Block: 4096   regular file
+Device: 8,33	Inode: 144329915   Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-26 21:00:00.000000000 -0300
+Modify: 2024-04-19 19:04:28.000000000 -0300
+Change: 2024-05-04 17:36:51.644562591 -0300
+ Birth: 2024-04-26 22:11:27.330384458 -0300
+IPFS hash: QmRjZ881CuurbP2ZnwWNu5K8LEddN8J7fj7C9Tsx2tRnnH
+------------------------------
+  File: ./Voice Recorder/Voz 1718.m4a
+  Size: 87883794  	Blocks: 171656     IO Block: 4096   regular file
+Device: 8,33	Inode: 144329982   Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-26 22:17:00.000000000 -0300
+Modify: 2024-04-24 17:06:13.000000000 -0300
+Change: 2024-05-04 17:36:51.783562192 -0300
+ Birth: 2024-04-26 22:38:13.697518655 -0300
+IPFS hash: QmSQuTMyk8frypXGZEAACy4wouWye1CbJZWYJufAyQ8KrW
+------------------------------
+  File: ./Voice Recorder/Voz 1741.m4a
+  Size: 39839520  	Blocks: 77816      IO Block: 4096   regular file
+Device: 8,33	Inode: 144330060   Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-04 16:56:58.000000000 -0300
+Modify: 2024-04-27 13:15:25.000000000 -0300
+Change: 2024-05-04 17:37:44.953397588 -0300
+ Birth: 2024-05-04 17:37:44.512399049 -0300
+IPFS hash: Qma8NTo367GKRppn42a2dT5c7ypvV62xTbyzrvJyAThs2Q
+------------------------------
+  File: ./Voice Recorder/Voz 1635.m4a
+  Size: 34142583  	Blocks: 66696      IO Block: 4096   regular file
+Device: 8,33	Inode: 144329899   Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-26 21:00:00.000000000 -0300
+Modify: 2024-04-15 05:57:22.000000000 -0300
+Change: 2024-05-04 17:36:51.604562705 -0300
+ Birth: 2024-04-26 22:10:47.627457830 -0300
+IPFS hash: QmNhu1kTUzidWXUsEvSAesyuHMJHx7FwXERhn8kxX7Jw5g
+------------------------------
+  File: ./Voice Recorder/Voz 1677.m4a
+  Size: 199018463 	Blocks: 388720     IO Block: 4096   regular file
+Device: 8,33	Inode: 144329941   Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-26 22:15:28.000000000 -0300
+Modify: 2024-04-21 18:25:40.000000000 -0300
+Change: 2024-05-04 17:36:51.688562464 -0300
+ Birth: 2024-04-26 22:37:03.546840209 -0300
+IPFS hash: QmZHj3BWMxmvmiBa9czDVTuSFh3KGU4T9DdQhUocZEphRL
+------------------------------
+  File: ./Voice Recorder/Voz 1682.m4a
+  Size: 141151246 	Blocks: 275688     IO Block: 4096   regular file
+Device: 8,33	Inode: 144329946   Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-26 22:15:52.000000000 -0300
+Modify: 2024-04-22 12:09:22.000000000 -0300
+Change: 2024-05-04 17:36:51.697562439 -0300
+ Birth: 2024-04-26 22:37:23.942227807 -0300
+IPFS hash: Qmb6paVh5Ei9xcWstqYn1MbGAdQKLXRQFSNeGVzPGzaf8g
+------------------------------
+  File: ./Voice Recorder/.folderstamp2.log.html5
+  Size: 1618      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,33	Inode: 144330075   Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-04 17:38:32.000000000 -0300
+Modify: 2024-05-04 17:00:36.170000000 -0300
+Change: 2024-05-04 17:44:48.002444247 -0300
+ Birth: 2024-05-04 17:38:32.923229682 -0300
+IPFS hash: QmYZncX2iv98yNA6EHgL9Vy8wUS9rNvSGe5XeMMSSMiiFR
+------------------------------
+  File: ./Voice Recorder/Voz 1692.m4a
+  Size: 2316895   	Blocks: 4528       IO Block: 4096   regular file
+Device: 8,33	Inode: 144329956   Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-26 22:16:04.000000000 -0300
+Modify: 2024-04-22 18:43:09.000000000 -0300
+Change: 2024-05-04 17:36:51.715562387 -0300
+ Birth: 2024-04-26 22:37:30.755686069 -0300
+IPFS hash: QmW9KbL8A5f6QohKotVGsJLzcTeWCwDkxzQfNGtVnREk2p
+------------------------------
+  File: ./Voice Recorder/Voz 1654.m4a
+  Size: 10661548  	Blocks: 20824      IO Block: 4096   regular file
+Device: 8,33	Inode: 144329916   Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-26 21:00:00.000000000 -0300
+Modify: 2024-04-19 19:10:20.000000000 -0300
+Change: 2024-05-04 17:36:51.645562588 -0300
+ Birth: 2024-04-26 22:11:28.541351745 -0300
+IPFS hash: QmVwSERgpabk4Wtv8kV8iLtCBLQs2Cwh3toFJwUQn94BdN
+------------------------------
+  File: ./Voice Recorder/Voz 1734.m4a
+  Size: 63883760  	Blocks: 124776     IO Block: 4096   regular file
+Device: 8,33	Inode: 144330001   Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-26 22:53:54.000000000 -0300
+Modify: 2024-04-26 18:05:09.000000000 -0300
+Change: 2024-05-04 17:36:51.814562103 -0300
+ Birth: 2024-04-26 23:24:12.349981762 -0300
+IPFS hash: QmcgnCy2iSyVdH8NgefKAYaADNBBdaidED9326KW3ZU5qr
+------------------------------
+  File: ./Voice Recorder/Voz 1671.m4a
+  Size: 289218539 	Blocks: 564888     IO Block: 4096   regular file
+Device: 8,33	Inode: 144329935   Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-26 22:15:00.000000000 -0300
+Modify: 2024-04-20 23:07:41.000000000 -0300
+Change: 2024-05-04 17:36:51.677562496 -0300
+ Birth: 2024-04-26 22:36:40.870267687 -0300
+IPFS hash: QmevFHyc5XQFCfv6uNpKQhVuauZ3pxia3cs9eqLgTFMxqT
+------------------------------
+  File: ./Voice Recorder/Voz 1733.m4a
+  Size: 112106201 	Blocks: 218960     IO Block: 4096   regular file
+Device: 8,33	Inode: 144330000   Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-26 22:53:52.000000000 -0300
+Modify: 2024-04-26 17:32:10.000000000 -0300
+Change: 2024-05-04 17:36:51.812562109 -0300
+ Birth: 2024-04-26 23:24:11.336064662 -0300
+IPFS hash: QmPTrLTGBeRAnTu961NxqbSmm1dT4gWgXQXEcCzLQaFmFj
+------------------------------
+  File: ./Voice Recorder/Voz 1658.m4a
+  Size: 2132980   	Blocks: 4168       IO Block: 4096   regular file
+Device: 8,33	Inode: 144329922   Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-26 22:14:34.000000000 -0300
+Modify: 2024-04-20 01:11:03.000000000 -0300
+Change: 2024-05-04 17:36:51.653562565 -0300
+ Birth: 2024-04-26 22:36:21.437893104 -0300
+IPFS hash: QmeGF2MsBTzwkYhwwv9wu1n4e7Py6bdj6Zv3hzGAsPxA5M
+------------------------------
+  File: ./Voice Recorder/Voz 1724.m4a
+  Size: 90509540  	Blocks: 176784     IO Block: 4096   regular file
+Device: 8,33	Inode: 144329991   Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-26 22:53:14.000000000 -0300
+Modify: 2024-04-25 00:48:52.000000000 -0300
+Change: 2024-05-04 17:36:51.794562161 -0300
+ Birth: 2024-04-26 23:24:05.567537816 -0300
+IPFS hash: QmVvQQHnDhqJaARdbmn54pUw7XpQMu8bbK3zjddjfof9ty
+------------------------------
+  File: ./Voice Recorder/Voz 1712.m4a
+  Size: 19968950  	Blocks: 39008      IO Block: 4096   regular file
+Device: 8,33	Inode: 144329976   Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-26 22:16:42.000000000 -0300
+Modify: 2024-04-24 03:13:21.000000000 -0300
+Change: 2024-05-04 17:36:51.773562221 -0300
+ Birth: 2024-04-26 22:37:58.938555452 -0300
+IPFS hash: QmQsyJFfSD315ofQjWWvL6ksqFeJi8jppQx7De4F7wFKi2
+------------------------------
+  File: ./Voice Recorder/Voz 1648.m4a
+  Size: 2542311   	Blocks: 4968       IO Block: 4096   regular file
+Device: 8,33	Inode: 144329910   Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-26 21:00:00.000000000 -0300
+Modify: 2024-04-19 08:07:36.000000000 -0300
+Change: 2024-05-04 17:36:51.635562616 -0300
+ Birth: 2024-04-26 22:11:24.244467827 -0300
+IPFS hash: QmcR6HgLDF6rDxWWMscZgC8LydXDBP86NaCN44iaz4QDig
+------------------------------
+  File: ./Voice Recorder/Voz 1706.m4a
+  Size: 61946     	Blocks: 128        IO Block: 4096   regular file
+Device: 8,33	Inode: 144329969   Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-26 22:16:36.000000000 -0300
+Modify: 2024-04-23 17:18:22.000000000 -0300
+Change: 2024-05-04 17:36:51.761562255 -0300
+ Birth: 2024-04-26 22:37:54.691276315 -0300
+IPFS hash: QmQaEwRr8UVMPMskqPftNuNENcthr6tPD3ErKbrunjpWR5
+------------------------------
+  File: ./Voice Recorder/Voz 1689.m4a
+  Size: 74263658  	Blocks: 145048     IO Block: 4096   regular file
+Device: 8,33	Inode: 144329953   Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-26 22:16:00.000000000 -0300
+Modify: 2024-04-22 16:44:40.000000000 -0300
+Change: 2024-05-04 17:36:51.710562401 -0300
+ Birth: 2024-04-26 22:37:28.722549590 -0300
+IPFS hash: QmWQyEzKusMmpMNUnW6HmgNyXErauXxtsL8rLbDhUbxnSb
+------------------------------
+  File: ./Voice Recorder/Voz 1730.m4a
+  Size: 154370176 	Blocks: 301520     IO Block: 4096   regular file
+Device: 8,33	Inode: 144329997   Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-26 22:53:44.000000000 -0300
+Modify: 2024-04-26 14:48:23.000000000 -0300
+Change: 2024-05-04 17:36:51.806562126 -0300
+ Birth: 2024-04-26 23:24:08.659283901 -0300
+IPFS hash: QmcrksyFNSc665CpZaahmarmKBoD7QfXcw2wE51nHocbZL
+------------------------------
+  File: ./Voice Recorder/Voz 1666.m4a
+  Size: 117407821 	Blocks: 229320     IO Block: 4096   regular file
+Device: 8,33	Inode: 144329930   Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-26 22:14:54.000000000 -0300
+Modify: 2024-04-20 17:42:59.000000000 -0300
+Change: 2024-05-04 17:36:51.669562519 -0300
+ Birth: 2024-04-26 22:36:36.971994010 -0300
+IPFS hash: QmeS1y49gp2ZY14sRqcfXCx21xkQuXmXDwBh5JHPEbC4vi
+------------------------------
+  File: ./Voice Recorder/Bkp/.393857/.1713904348100.m4a
+  Size: 0         	Blocks: 0          IO Block: 4096   regular empty file
+Device: 8,33	Inode: 144329898   Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-26 21:00:00.000000000 -0300
+Modify: 2024-04-23 14:32:36.000000000 -0300
+Change: 2024-04-26 22:10:47.620458020 -0300
+ Birth: 2024-04-26 22:10:47.618458074 -0300
+IPFS hash: QmbFMke1KXqnYyBBWxB74N4c5SBnJMVAiMNRcGu6x1AwQH
+------------------------------
+  File: ./Voice Recorder/Bkp/.393857/.1713904358124.m4a
+  Size: 5304761   	Blocks: 10368      IO Block: 4096   regular file
+Device: 8,33	Inode: 144329896   Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-26 21:00:00.000000000 -0300
+Modify: 2024-04-23 14:35:22.000000000 -0300
+Change: 2024-04-26 22:10:47.617458101 -0300
+ Birth: 2024-04-26 22:10:47.544460076 -0300
+IPFS hash: QmYvWk2PSNZKMpUgi54b1bBwL2dvAPBcujAw4BqjACEwEw
+------------------------------
+  File: ./Voice Recorder/Voz 1652.m4a
+  Size: 13633623  	Blocks: 26632      IO Block: 4096   regular file
+Device: 8,33	Inode: 144329914   Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-26 21:00:00.000000000 -0300
+Modify: 2024-04-19 13:23:20.000000000 -0300
+Change: 2024-05-04 17:36:51.642562596 -0300
+ Birth: 2024-04-26 22:11:27.160389050 -0300
+IPFS hash: Qmdosjx1PSmQ1pTpWV3ZaKdUSpWqJaPDQMukWWNLzNdwSq
+------------------------------
+  File: ./Voice Recorder/Voz 1647.m4a
+  Size: 1163347162	Blocks: 2272176    IO Block: 4096   regular file
+Device: 8,33	Inode: 144329909   Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-26 21:00:00.000000000 -0300
+Modify: 2024-04-19 08:05:34.000000000 -0300
+Change: 2024-05-04 17:36:51.633562622 -0300
+ Birth: 2024-04-26 22:11:10.121849489 -0300
+IPFS hash: QmYUfoEQfnmeYvf1Ki4GRuXaqkEQogBd4vd9fJgcqExHuf
+------------------------------
+  File: ./Voice Recorder/Voz 1662.m4a
+  Size: 16545367  	Blocks: 32320      IO Block: 4096   regular file
+Device: 8,33	Inode: 144329926   Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-26 22:14:50.000000000 -0300
+Modify: 2024-04-20 14:51:35.000000000 -0300
+Change: 2024-05-04 17:36:51.660562545 -0300
+ Birth: 2024-04-26 22:36:34.455816810 -0300
+IPFS hash: QmRpCEdrQS1RyeuUnagcM7e1CvbPuoAPaYYbGiQR2WNkV4
+------------------------------
+  File: ./Voice Recorder/Voz 1694.m4a
+  Size: 1994330   	Blocks: 3896       IO Block: 4096   regular file
+Device: 8,33	Inode: 144329958   Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-26 22:16:04.000000000 -0300
+Modify: 2024-04-22 18:44:33.000000000 -0300
+Change: 2024-05-04 17:36:51.719562376 -0300
+ Birth: 2024-04-26 22:37:30.795688752 -0300
+IPFS hash: QmNfsmMnq28V6vjtQQzRZ9LY2C6vVbzCCqyux4CKRUknUC
+------------------------------
+  File: ./Voice Recorder/Voz 1720.m4a
+  Size: 21661163  	Blocks: 42312      IO Block: 4096   regular file
+Device: 8,33	Inode: 144329984   Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-26 22:17:04.000000000 -0300
+Modify: 2024-04-24 19:19:23.000000000 -0300
+Change: 2024-05-04 17:36:51.786562183 -0300
+ Birth: 2024-04-26 22:38:16.475698824 -0300
+IPFS hash: QmbBe8ewQQzB7gK7sa2J2Zy7eXytXj3zv1AoXQ2PgNwXBd
+------------------------------
+  File: ./Voice Recorder/Voz 1687.m4a
+  Size: 17931862  	Blocks: 35024      IO Block: 4096   regular file
+Device: 8,33	Inode: 144329951   Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-26 22:15:58.000000000 -0300
+Modify: 2024-04-22 15:12:30.000000000 -0300
+Change: 2024-05-04 17:36:51.707562410 -0300
+ Birth: 2024-04-26 22:37:27.346457088 -0300
+IPFS hash: QmaNXj5qpw1QoFyuFFHjzBzRQwYpX2sgMnsWt7XbM9pfNZ
+------------------------------
+  File: ./Voice Recorder/Voz 1663.m4a
+  Size: 504006    	Blocks: 992        IO Block: 4096   regular file
+Device: 8,33	Inode: 144329927   Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-26 22:14:50.000000000 -0300
+Modify: 2024-04-20 14:51:53.000000000 -0300
+Change: 2024-05-04 17:36:51.663562536 -0300
+ Birth: 2024-04-26 22:36:34.641829925 -0300
+IPFS hash: QmRps7SU7MiuLNJ1rwaZRn8irUZD1DLLALKa8SmdNz19y6
+------------------------------
+  File: ./Voice Recorder/Voz 1642.m4a
+  Size: 1163347132	Blocks: 2272176    IO Block: 4096   regular file
+Device: 8,33	Inode: 144329904   Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-26 21:00:00.000000000 -0300
+Modify: 2024-04-18 08:23:14.000000000 -0300
+Change: 2024-05-04 17:36:51.621562656 -0300
+ Birth: 2024-04-26 22:10:53.135308825 -0300
+IPFS hash: Qma6m3f72RDCMFJiY2HZCCxGvpBgdZQAqjAy5UxpPFqcL5
+------------------------------
+  File: ./Voice Recorder/Voz 1645.m4a
+  Size: 28901517  	Blocks: 56456      IO Block: 4096   regular file
+Device: 8,33	Inode: 144329907   Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-26 21:00:00.000000000 -0300
+Modify: 2024-04-18 20:16:22.000000000 -0300
+Change: 2024-05-04 17:36:51.630562631 -0300
+ Birth: 2024-04-26 22:11:08.786885577 -0300
+IPFS hash: Qmdk2vz1E89c27MUDPUyruR12qFegpk4h9tEYskTKTMTjm
+------------------------------
+  File: ./Voice Recorder/Voz 1743.m4a
+  Size: 204000499 	Blocks: 398448     IO Block: 4096   regular file
+Device: 8,33	Inode: 144330062   Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-04 16:57:02.000000000 -0300
+Modify: 2024-04-27 17:22:05.000000000 -0300
+Change: 2024-05-04 17:37:47.699388455 -0300
+ Birth: 2024-05-04 17:37:45.466395886 -0300
+IPFS hash: QmfJuFA8x1qane37zJjRes6a9p3XyFQ4DJjVg9Cf543U8L
+------------------------------
+  File: ./Voice Recorder/Voz 1699.m4a
+  Size: 368905    	Blocks: 728        IO Block: 4096   regular file
+Device: 8,33	Inode: 144329963   Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-26 22:16:12.000000000 -0300
+Modify: 2024-04-22 23:35:14.000000000 -0300
+Change: 2024-05-04 17:36:51.746562298 -0300
+ Birth: 2024-04-26 22:37:36.579075732 -0300
+IPFS hash: QmXmYxJ3K7qkF7hPsY8nvS8D4hSY1QTTpzNjHd1xoADZQK
+------------------------------
+  File: ./Voice Recorder/Voz 1655.m4a
+  Size: 124785    	Blocks: 248        IO Block: 4096   regular file
+Device: 8,33	Inode: 144329988   Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-26 22:53:14.000000000 -0300
+Modify: 2024-04-19 23:23:46.000000000 -0300
+Change: 2024-05-04 17:36:51.647562582 -0300
+ Birth: 2024-04-26 23:24:05.461546534 -0300
+IPFS hash: QmdF1PF13aMyMrtPxuQ5GxhcUkQ8bZrpz3b4yBL3hCbZNB
+------------------------------
+  File: ./Voice Recorder/Voz 1684.m4a
+  Size: 32555723  	Blocks: 63592      IO Block: 4096   regular file
+Device: 8,33	Inode: 144329948   Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-26 22:15:56.000000000 -0300
+Modify: 2024-04-22 12:30:20.000000000 -0300
+Change: 2024-05-04 17:36:51.702562424 -0300
+ Birth: 2024-04-26 22:37:25.751349734 -0300
+IPFS hash: QmegQS8nNJMCKbuAyM9vrp1Lc88ie8AQj2DubK6TmvBs16
+------------------------------
+  File: ./Voice Recorder/Voz 1695.m4a
+  Size: 18110173  	Blocks: 35376      IO Block: 4096   regular file
+Device: 8,33	Inode: 144329959   Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-26 22:16:04.000000000 -0300
+Modify: 2024-04-22 18:55:10.000000000 -0300
+Change: 2024-05-04 17:36:51.721562370 -0300
+ Birth: 2024-04-26 22:37:30.826690832 -0300
+IPFS hash: QmbL6bvz8eG5p7mnMwHSbnbwPsSvb1w6oLxvDL63nJ1T3h
+------------------------------
+  File: ./Voice Recorder/Imp gt.m4a
+  Size: 5247351   	Blocks: 10256      IO Block: 4096   regular file
+Device: 8,33	Inode: 144330099   Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-03 18:47:00.000000000 -0300
+Modify: 2024-05-02 20:52:39.000000000 -0300
+Change: 2024-05-04 17:46:03.228013060 -0300
+ Birth: 2024-05-04 17:46:03.163013441 -0300
+IPFS hash: QmZsWY7jXrPkK8JY97j6g1oGoZx5newayLk1d3gqfbNHn9
+------------------------------
+  File: ./Voice Recorder/Voz 1714.m4a
+  Size: 139767881 	Blocks: 272992     IO Block: 4096   regular file
+Device: 8,33	Inode: 144329978   Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-26 22:16:56.000000000 -0300
+Modify: 2024-04-24 13:17:07.000000000 -0300
+Change: 2024-05-04 17:36:51.776562212 -0300
+ Birth: 2024-04-26 22:38:10.199291283 -0300
+IPFS hash: QmdQeCWikLE8veSPgfLyGQs1S3dfh6aa6VNnD6y8cEPnHo
+------------------------------
+  File: ./Voice Recorder/Voz 1740.m4a
+  Size: 2224532   	Blocks: 4352       IO Block: 4096   regular file
+Device: 8,33	Inode: 144330059   Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-04 16:56:58.000000000 -0300
+Modify: 2024-04-27 12:47:57.000000000 -0300
+Change: 2024-05-04 17:37:44.512399049 -0300
+ Birth: 2024-05-04 17:37:44.478399161 -0300
+IPFS hash: QmXyMcXdUjabGuh6NUgfeNmGvE4rDXtZsLLavsqVstSK6t
+------------------------------
+  File: ./Voice Recorder/Voz 1651.m4a
+  Size: 85856394  	Blocks: 167696     IO Block: 4096   regular file
+Device: 8,33	Inode: 144329913   Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-26 21:00:00.000000000 -0300
+Modify: 2024-04-19 12:03:10.000000000 -0300
+Change: 2024-05-04 17:36:51.641562599 -0300
+ Birth: 2024-04-26 22:11:26.124417037 -0300
+IPFS hash: QmTMD8rkhH9sR3dMk8rrcuUnrXg5nwc4obgCC5qE3hCvfY
+------------------------------
+  File: ./Voice Recorder/Voz 1704.m4a
+  Size: 304421161 	Blocks: 594584     IO Block: 4096   regular file
+Device: 8,33	Inode: 144329968   Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-26 22:16:30.000000000 -0300
+Modify: 2024-04-23 16:55:08.000000000 -0300
+Change: 2024-05-04 17:36:51.758562264 -0300
+ Birth: 2024-04-26 22:37:51.131041648 -0300
+IPFS hash: QmbQkACVSv5vbUEgSmA5CMLL6RuAiWHceiwGgWH9qJhrjP
+------------------------------
+  File: ./Voice Recorder/.folderstamp2
+  Size: 10039     	Blocks: 24         IO Block: 4096   regular file
+Device: 8,33	Inode: 144330074   Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-04 17:38:32.000000000 -0300
+Modify: 2024-05-04 16:58:55.070000000 -0300
+Change: 2024-05-04 17:44:50.409430741 -0300
+ Birth: 2024-05-04 17:38:32.919229697 -0300
+IPFS hash: QmP4xgggKnNwsfYhZUVVW4JBRKh7JPy87nDcXQT9eptajA
+------------------------------
+  File: ./Voice Recorder/Voz 1693.m4a
+  Size: 327090    	Blocks: 640        IO Block: 4096   regular file
+Device: 8,33	Inode: 144329957   Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-26 22:16:04.000000000 -0300
+Modify: 2024-04-22 18:43:20.000000000 -0300
+Change: 2024-05-04 17:36:51.717562381 -0300
+ Birth: 2024-04-26 22:37:30.788688283 -0300
+IPFS hash: QmRXPK7NPvxT7zXFDNwtyh27s6W4gvK9BzFEUPMYrV7dBe
+------------------------------
+  File: ./Voice Recorder/Voz 1669.m4a
+  Size: 18542457  	Blocks: 36216      IO Block: 4096   regular file
+Device: 8,33	Inode: 144329933   Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-26 22:14:56.000000000 -0300
+Modify: 2024-04-20 18:27:50.000000000 -0300
+Change: 2024-05-04 17:36:51.674562505 -0300
+ Birth: 2024-04-26 22:36:38.436096910 -0300
+IPFS hash: QmbS7x36NqR4ArYvcxVFs9977itAcT6z37SEkSfbKbstL6
+------------------------------
+  File: ./Voice Recorder/Voz 1711.m4a
+  Size: 296159799 	Blocks: 578448     IO Block: 4096   regular file
+Device: 8,33	Inode: 144329975   Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-26 22:16:36.000000000 -0300
+Modify: 2024-04-24 02:37:26.000000000 -0300
+Change: 2024-05-04 17:36:51.770562229 -0300
+ Birth: 2024-04-26 22:37:55.483328436 -0300
+IPFS hash: QmYypwCc2Kb8DDSR3Jr3cp8dfqgh1qLWEY82bDTUrb6iFX
+------------------------------
+  File: ./Voice Recorder/Voz 1688.m4a
+  Size: 99166057  	Blocks: 193688     IO Block: 4096   regular file
+Device: 8,33	Inode: 144329952   Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-26 22:15:58.000000000 -0300
+Modify: 2024-04-22 16:05:37.000000000 -0300
+Change: 2024-05-04 17:36:51.708562407 -0300
+ Birth: 2024-04-26 22:37:27.563471682 -0300
+IPFS hash: QmYQsw3BY3kE6LTxAdZq6AGYWryAhegD78ZaM7nx5NFJAG
+------------------------------
+  File: ./Voice Recorder/Voz 1697.m4a
+  Size: 198853624 	Blocks: 388392     IO Block: 4096   regular file
+Device: 8,33	Inode: 144329961   Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-26 22:16:04.000000000 -0300
+Modify: 2024-04-22 21:07:09.000000000 -0300
+Change: 2024-05-04 17:36:51.742562310 -0300
+ Birth: 2024-04-26 22:37:31.201715980 -0300
+IPFS hash: QmT7bfysYcffvjvKEyKZSStvoTRpnbcqPsiJ1cN98E3CBc
+------------------------------
+  File: ./Voice Recorder/Voz 1721.m4a
+  Size: 13323491  	Blocks: 26024      IO Block: 4096   regular file
+Device: 8,33	Inode: 144329985   Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-26 22:17:04.000000000 -0300
+Modify: 2024-04-24 19:26:19.000000000 -0300
+Change: 2024-05-04 17:36:51.789562175 -0300
+ Birth: 2024-04-26 22:38:16.717714504 -0300
+IPFS hash: QmcN9crQpmgJRAcJeZjYbGmototBJhKDmkK1q1rFNsHEBA
+------------------------------
+  File: ./Voice Recorder/Voz 1700.m4a
+  Size: 1039906785	Blocks: 2031080    IO Block: 4096   regular file
+Device: 8,33	Inode: 144329964   Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-26 22:16:12.000000000 -0300
+Modify: 2024-04-23 08:47:13.000000000 -0300
+Change: 2024-05-04 17:36:51.748562292 -0300
+ Birth: 2024-04-26 22:37:36.590076467 -0300
+IPFS hash: QmVhGx3Z6eJdjRF2t7GL6xPrQ3AVg9LoziDW1JPMJS788S
+------------------------------
+  File: ./Voice Recorder/Voz 1691.m4a
+  Size: 94611500  	Blocks: 184792     IO Block: 4096   regular file
+Device: 8,33	Inode: 144329955   Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-26 22:16:02.000000000 -0300
+Modify: 2024-04-22 18:41:31.000000000 -0300
+Change: 2024-05-04 17:36:51.713562393 -0300
+ Birth: 2024-04-26 22:37:29.641611311 -0300
+IPFS hash: QmasJu8hfRPwKXLy4Sx9KNbBifyDY6xFhJRbKfX4yapEm8
+------------------------------
+  File: ./Voice Recorder/Voz 1729.m4a
+  Size: 20765651  	Blocks: 40560      IO Block: 4096   regular file
+Device: 8,33	Inode: 144329996   Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-26 22:53:44.000000000 -0300
+Modify: 2024-04-25 19:07:40.000000000 -0300
+Change: 2024-05-04 17:36:51.803562135 -0300
+ Birth: 2024-04-26 23:24:08.514295793 -0300
+IPFS hash: QmPyWvrKjke5qy4SLPfyPpwF89k6xhpxoxEqMNUw9pLfQu
+------------------------------
+  File: ./Voice Recorder/Voz 1749.m4a
+  Size: 120588443 	Blocks: 235536     IO Block: 4096   regular file
+Device: 8,33	Inode: 144330068   Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-04 16:58:40.000000000 -0300
+Modify: 2024-04-28 19:20:24.000000000 -0300
+Change: 2024-05-04 17:38:21.557271033 -0300
+ Birth: 2024-05-04 17:38:20.187275954 -0300
+IPFS hash: QmZCuiX4LxJ2ZAk4xAcZpVrjUj3kGEn1R9xoLUUZM7u5XB
+------------------------------
+  File: ./Voice Recorder/Voz 1756.m4a
+  Size: 31798836  	Blocks: 62112      IO Block: 4096   regular file
+Device: 8,33	Inode: 144330107   Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-03 18:47:00.000000000 -0300
+Modify: 2024-04-30 07:51:14.000000000 -0300
+Change: 2024-05-04 17:47:39.760435106 -0300
+ Birth: 2024-05-04 17:47:39.409437253 -0300
+IPFS hash: QmZnNUS6GsxZJuZsZSsuaddKQYfZVRRgoXhw7shHoha5cr
+------------------------------
+  File: ./Voice Recorder/Voz 1732.m4a
+  Size: 159107227 	Blocks: 310768     IO Block: 4096   regular file
+Device: 8,33	Inode: 144329999   Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-26 22:53:48.000000000 -0300
+Modify: 2024-04-26 16:32:10.000000000 -0300
+Change: 2024-05-04 17:36:51.810562115 -0300
+ Birth: 2024-04-26 23:24:10.059169170 -0300
+IPFS hash: QmVz9pdW2gW5f6eoT21zeNpjiGRkytboWVx6CLF2q7gboE
+------------------------------
+  File: ./Voice Recorder/Voz 1673.m4a
+  Size: 113745250 	Blocks: 222160     IO Block: 4096   regular file
+Device: 8,33	Inode: 144329937   Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-26 22:15:18.000000000 -0300
+Modify: 2024-04-21 12:00:59.000000000 -0300
+Change: 2024-05-04 17:36:51.680562487 -0300
+ Birth: 2024-04-26 22:36:56.791375139 -0300
+IPFS hash: QmPU8onoPn8awN8APXgvhUjneYcFB2s1qK6WaTUFfYWpaU
+------------------------------
+  File: ./Voice Recorder/Voz 1641.m4a
+  Size: 17364863  	Blocks: 33920      IO Block: 4096   regular file
+Device: 8,33	Inode: 144329903   Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-26 21:00:00.000000000 -0300
+Modify: 2024-04-17 22:15:38.000000000 -0300
+Change: 2024-05-04 17:36:51.616562671 -0300
+ Birth: 2024-04-26 22:10:52.997312558 -0300
+IPFS hash: QmTYPWAVYJNgTFF6Tzes8rwuNpFeEJnGKbwMC6WDbLSq9F
+------------------------------
+  File: ./Voice Recorder/Voz 1698.m4a
+  Size: 258430878 	Blocks: 504760     IO Block: 4096   regular file
+Device: 8,33	Inode: 144329962   Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-26 22:16:08.000000000 -0300
+Modify: 2024-04-22 23:24:28.000000000 -0300
+Change: 2024-05-04 17:36:51.744562304 -0300
+ Birth: 2024-04-26 22:37:33.533872194 -0300
+IPFS hash: QmTcU2cvssd83smU91fnnGLs1ttCUSrBU8fN1Rp9mcvcVG
+------------------------------
+  File: ./Voice Recorder/Voz 1661.m4a
+  Size: 9842009   	Blocks: 19224      IO Block: 4096   regular file
+Device: 8,33	Inode: 144329925   Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-26 22:14:48.000000000 -0300
+Modify: 2024-04-20 13:02:09.000000000 -0300
+Change: 2024-05-04 17:36:51.658562550 -0300
+ Birth: 2024-04-26 22:36:34.343808913 -0300
+IPFS hash: QmWetmpUx673add4BwzJXNDXUbSMgdKgZ7BpBWoupVCxpW
+------------------------------
+  File: ./Voice Recorder/Voz 1738.m4a
+  Size: 1163347165	Blocks: 2272176    IO Block: 4096   regular file
+Device: 8,33	Inode: 144330057   Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-04 16:56:04.000000000 -0300
+Modify: 2024-04-27 10:22:17.000000000 -0300
+Change: 2024-05-04 17:37:44.469399191 -0300
+ Birth: 2024-05-04 17:37:31.603441128 -0300
+IPFS hash: QmS1rib7E7hLA34ehoyAzgJ1NtuKwpgMg1fTLafmY6DHu7
+------------------------------
+  File: ./Voice Recorder/Voz 1728.m4a
+  Size: 66186191  	Blocks: 129272     IO Block: 4096   regular file
+Device: 8,33	Inode: 144329995   Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-26 22:53:38.000000000 -0300
+Modify: 2024-04-25 13:15:15.000000000 -0300
+Change: 2024-05-04 17:36:51.801562140 -0300
+ Birth: 2024-04-26 23:24:08.062332863 -0300
+IPFS hash: QmYmtz75wEYVb83vTQmPqyrqs2BdXgBvQRKd66PAx8PJtV
+------------------------------
+  File: ./Voice Recorder/Voz 1737.m4a
+  Size: 29702404  	Blocks: 58016      IO Block: 4096   regular file
+Device: 8,33	Inode: 144330056   Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-04 16:56:04.000000000 -0300
+Modify: 2024-04-27 00:21:04.000000000 -0300
+Change: 2024-05-04 17:37:31.602441131 -0300
+ Birth: 2024-05-04 17:37:31.261442224 -0300
+IPFS hash: QmSoFTJpnjtBApp6516BZpdaBiZyS3Mw88YXBAUwta6rZi
+------------------------------
+  File: ./Voice Recorder/Voz 1637.m4a
+  Size: 18237705  	Blocks: 35624      IO Block: 4096   regular file
+Device: 8,33	Inode: 144329919   Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-26 22:14:32.000000000 -0300
+Modify: 2024-04-16 08:45:52.000000000 -0300
+Change: 2024-05-04 17:36:51.607562697 -0300
+ Birth: 2024-04-26 22:36:20.273809925 -0300
+IPFS hash: QmZBTiTbHypyWkKCQDgdYcF3juJBcvuwQ3GJdxHeAJ3vqJ
+------------------------------
+  File: ./Voice Recorder/Voz 1664.m4a
+  Size: 56448292  	Blocks: 110256     IO Block: 4096   regular file
+Device: 8,33	Inode: 144329928   Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-26 22:14:50.000000000 -0300
+Modify: 2024-04-20 15:21:09.000000000 -0300
+Change: 2024-05-04 17:36:51.665562530 -0300
+ Birth: 2024-04-26 22:36:34.653830771 -0300
+IPFS hash: QmRfnMC3x163J5gyY1ArmVy9udMjjd6pUASS26wyyUzici
+------------------------------
+  File: ./Voice Recorder/Voz 1752.m4a
+  Size: 731466835 	Blocks: 1428656    IO Block: 4096   regular file
+Device: 8,33	Inode: 144330071   Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-04 16:58:44.000000000 -0300
+Modify: 2024-04-29 06:30:27.000000000 -0300
+Change: 2024-05-04 17:38:31.673234275 -0300
+ Birth: 2024-05-04 17:38:23.678263389 -0300
+IPFS hash: QmS7cfhVzahS6PRaRGkiFxhgdSEqFAw1giUVakyc2TLzUK
+------------------------------
+  File: ./Voice Recorder/Voz 1725.m4a
+  Size: 977189570 	Blocks: 1908584    IO Block: 4096   regular file
+Device: 8,33	Inode: 144329992   Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-26 22:53:16.000000000 -0300
+Modify: 2024-04-25 09:29:02.000000000 -0300
+Change: 2024-05-04 17:36:51.796562155 -0300
+ Birth: 2024-04-26 23:24:05.653530743 -0300
+IPFS hash: QmXvD67WaHvYeUd6gKDPS49xtLQy3VzzFFHhYVagkMAGPZ
+------------------------------
+  File: ./Voice Recorder/Voz 1650.m4a
+  Size: 119375608 	Blocks: 233160     IO Block: 4096   regular file
+Device: 8,33	Inode: 144329912   Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-26 21:00:00.000000000 -0300
+Modify: 2024-04-19 09:52:34.000000000 -0300
+Change: 2024-05-04 17:36:51.639562605 -0300
+ Birth: 2024-04-26 22:11:24.687455859 -0300
+IPFS hash: QmaSue2YW8JFNsaWNB2LQDAPkAji16PKYPYN2SxNY7RmH9
+------------------------------
+  File: ./Voice Recorder/Voz 1675.m4a
+  Size: 108314982 	Blocks: 211560     IO Block: 4096   regular file
+Device: 8,33	Inode: 144329939   Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-26 22:15:20.000000000 -0300
+Modify: 2024-04-21 13:05:55.000000000 -0300
+Change: 2024-05-04 17:36:51.685562473 -0300
+ Birth: 2024-04-26 22:36:58.039461278 -0300
+IPFS hash: QmdhrvigwZ4nRbbrNhmqjQNxmCYtk34sczTWxsDeDtT3Hk
+------------------------------
+  File: ./Voice Recorder/Voz 1665.m4a
+  Size: 150299816 	Blocks: 293560     IO Block: 4096   regular file
+Device: 8,33	Inode: 144329929   Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-26 22:14:50.000000000 -0300
+Modify: 2024-04-20 16:38:43.000000000 -0300
+Change: 2024-05-04 17:36:51.667562525 -0300
+ Birth: 2024-04-26 22:36:35.274874538 -0300
+IPFS hash: QmP1GCVE1Tg78waBNL2YdKQkd1UbuG9tQwEFktgAjqRTi2
+------------------------------
+  File: ./Voice Recorder/Voz 1672.m4a
+  Size: 1163347200	Blocks: 2272176    IO Block: 4096   regular file
+Device: 8,33	Inode: 144329936   Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-26 22:15:04.000000000 -0300
+Modify: 2024-04-21 09:24:17.000000000 -0300
+Change: 2024-05-04 17:36:51.679562490 -0300
+ Birth: 2024-04-26 22:36:44.001486790 -0300
+IPFS hash: QmepSx2BswaEEN15YwkAnM5tvsJSDJviQe6ZgGUDyypxda
+------------------------------
+  File: ./Voice Recorder/Voz 1753.m4a
+  Size: 30828181  	Blocks: 60216      IO Block: 4096   regular file
+Device: 8,33	Inode: 144330072   Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-04 16:58:52.000000000 -0300
+Modify: 2024-04-29 12:17:10.000000000 -0300
+Change: 2024-05-04 17:38:32.017233013 -0300
+ Birth: 2024-05-04 17:38:31.674234272 -0300
+IPFS hash: QmWELNrUpkbpUmrRwgW66U7VomQPxRoR9fyBTH11H3kZV9
+------------------------------
+  File: ./Voice Recorder/Voz 1747.m4a
+  Size: 705883775 	Blocks: 1378688    IO Block: 4096   regular file
+Device: 8,33	Inode: 144330066   Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-04 16:58:22.000000000 -0300
+Modify: 2024-04-28 17:45:39.000000000 -0300
+Change: 2024-05-04 17:38:19.582278121 -0300
+ Birth: 2024-05-04 17:38:11.771305870 -0300
+IPFS hash: QmXSyVmq6nJViPjN1KhWUFE7JvvfkJH8oCrjkAJ6JxgQdF
+------------------------------
+  File: ./Voice Recorder/Voz 1681.m4a
+  Size: 109264993 	Blocks: 213416     IO Block: 4096   regular file
+Device: 8,33	Inode: 144329945   Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-26 22:15:52.000000000 -0300
+Modify: 2024-04-22 10:53:34.000000000 -0300
+Change: 2024-05-04 17:36:51.696562441 -0300
+ Birth: 2024-04-26 22:37:22.649140539 -0300
+IPFS hash: QmbXWd9h6BVftJnUWSCqQL8QWhmNyCYFi1GhoUWJozLKFq
+------------------------------
+  File: ./Voice Recorder/Voz 1674.m4a
+  Size: 663242    	Blocks: 1296       IO Block: 4096   regular file
+Device: 8,33	Inode: 144329938   Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-26 22:15:20.000000000 -0300
+Modify: 2024-04-21 12:03:06.000000000 -0300
+Change: 2024-05-04 17:36:51.682562482 -0300
+ Birth: 2024-04-26 22:36:58.026460381 -0300
+IPFS hash: QmeZz6Ne2vF7WE6vawBHpg7q7BJiAhT4ufjWTVwFLWyz5y
+------------------------------
+  File: ./Voice Recorder/Voz 1670.m4a
+  Size: 205370252 	Blocks: 401120     IO Block: 4096   regular file
+Device: 8,33	Inode: 144329934   Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-26 22:14:56.000000000 -0300
+Modify: 2024-04-20 20:38:28.000000000 -0300
+Change: 2024-05-04 17:36:51.675562502 -0300
+ Birth: 2024-04-26 22:36:38.645111590 -0300
+IPFS hash: QmNoV1zi4aU4nJYfXc7a1jkH7tfv5R2dmxksX6Kt6Fp1VT
+------------------------------
+  File: ./Voice Recorder/Voz 1707.m4a
+  Size: 7729073   	Blocks: 15096      IO Block: 4096   regular file
+Device: 8,33	Inode: 144329971   Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-26 22:16:36.000000000 -0300
+Modify: 2024-04-23 17:30:35.000000000 -0300
+Change: 2024-05-04 17:36:51.763562249 -0300
+ Birth: 2024-04-26 22:37:54.881288824 -0300
+IPFS hash: QmPyP47mi8c2id5uSeFp38XNFmmb6hdBAspMJHd8RVFiAk
+------------------------------
+  File: ./Voice Recorder/Voz 1676.m4a
+  Size: 396500899 	Blocks: 774424     IO Block: 4096   regular file
+Device: 8,33	Inode: 144329940   Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-26 22:15:22.000000000 -0300
+Modify: 2024-04-21 16:33:44.000000000 -0300
+Change: 2024-05-04 17:36:51.687562467 -0300
+ Birth: 2024-04-26 22:36:59.213542213 -0300
+IPFS hash: QmaUgdwATNPa9Fut8RMjS6NV8nrPtnDDz3DGb48ip74A67
+------------------------------
+  File: ./Voice Recorder/Voz 1703.m4a
+  Size: 130933278 	Blocks: 255736     IO Block: 4096   regular file
+Device: 8,33	Inode: 144329967   Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-26 22:16:28.000000000 -0300
+Modify: 2024-04-23 13:29:50.000000000 -0300
+Change: 2024-05-04 17:36:51.755562272 -0300
+ Birth: 2024-04-26 22:37:49.591939999 -0300
+IPFS hash: QmXg18XsuSXCw4CHgb7BAJn2Znkm95R45FWaY1zZNRszM7
+------------------------------
+  File: ./Voice Recorder/Voz 1644.m4a
+  Size: 112514736 	Blocks: 219768     IO Block: 4096   regular file
+Device: 8,33	Inode: 144329906   Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-26 21:00:00.000000000 -0300
+Modify: 2024-04-18 11:31:06.000000000 -0300
+Change: 2024-05-04 17:36:51.628562636 -0300
+ Birth: 2024-04-26 22:11:07.414922667 -0300
+IPFS hash: QmZ6BQNf27Ds2XxHEWPdkFFjNaE9Yqb8Yn8ZLynmAeoqDK
+------------------------------
+  File: ./Voice Recorder/Voz 1657.m4a
+  Size: 11130109  	Blocks: 21744      IO Block: 4096   regular file
+Device: 8,33	Inode: 144329921   Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-26 22:14:32.000000000 -0300
+Modify: 2024-04-19 23:29:33.000000000 -0300
+Change: 2024-05-04 17:36:51.651562570 -0300
+ Birth: 2024-04-26 22:36:21.309883963 -0300
+IPFS hash: QmRgr3jhM9FggX6UGqchMT9CpzV6uMGKbjcGtZhEDbVx2P
+------------------------------
+  File: ./Voice Recorder/Voz 1686.m4a
+  Size: 8392318   	Blocks: 16392      IO Block: 4096   regular file
+Device: 8,33	Inode: 144329950   Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-26 22:15:58.000000000 -0300
+Modify: 2024-04-22 14:46:39.000000000 -0300
+Change: 2024-05-04 17:36:51.705562416 -0300
+ Birth: 2024-04-26 22:37:27.243450160 -0300
+IPFS hash: QmPFP5sF1xEicRriUEeHvuTFUHQUcWerS3J1JiybzDhQ7Z
+------------------------------
+  File: ./.folderstamp2.log.html5
+  Size: 1776      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,33	Inode: 144329987   Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-26 22:38:16.000000000 -0300
+Modify: 2024-04-26 22:36:08.160000000 -0300
+Change: 2024-04-26 22:38:16.876724806 -0300
+ Birth: 2024-04-26 22:38:16.873724611 -0300
+IPFS hash: Qmf8ADEjKJBS5tUPWCgNiDUpMzpL6x8WDQBBeP7Dz5DMHB
+------------------------------
+  File: ./.folderstamp3.log.html5
+  Size: 1818      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,33	Inode: 144330003   Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-26 23:24:12.000000000 -0300
+Modify: 2024-04-26 23:23:42.110000000 -0300
+Change: 2024-04-26 23:24:12.914935598 -0300
+ Birth: 2024-04-26 23:24:12.911935843 -0300
+IPFS hash: QmQU631ECZv7zEPZ8QcA3n11NJrPgi5k9eACojZSE7aSX5
+------------------------------
+  File: ./.folderstamp3
+  Size: 6752      	Blocks: 16         IO Block: 4096   regular file
+Device: 8,33	Inode: 144330002   Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-26 23:24:12.000000000 -0300
+Modify: 2024-04-26 23:23:16.940000000 -0300
+Change: 2024-04-26 23:24:12.911935843 -0300
+ Birth: 2024-04-26 23:24:12.908936088 -0300
+IPFS hash: QmXBvGp6UtVA1KaVz26oiMaBxptrZVcAYqtfa7ZyH61Vcw
+------------------------------
+  File: ./.folderstamp2
+  Size: 31662     	Blocks: 64         IO Block: 4096   regular file
+Device: 8,33	Inode: 144329986   Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-26 22:38:16.000000000 -0300
+Modify: 2024-04-26 22:17:05.520000000 -0300
+Change: 2024-04-26 22:38:16.873724611 -0300
+ Birth: 2024-04-26 22:38:16.869724352 -0300
+IPFS hash: QmPE9jC6a6fBRpGWYbX5Cwg6uRL2XXxVbRjrCEUzi7SVXu
+------------------------------
+  File: ./.folderstamp4.log.html5
+  Size: 1344      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,33	Inode: 144330040   Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-30 21:00:00.000000000 -0300
+Modify: 2024-05-01 13:40:10.000000000 -0300
+Change: 2024-05-01 13:40:30.230497588 -0300
+ Birth: 2024-05-01 13:40:30.227497624 -0300
+IPFS hash: QmQYZhaYcNkh1a7ZUoZD7JacEK31wx76vtzRRQK3YkfF1z
+------------------------------
+  File: ./alcatel/rec_20240427-1449.wav
+  Size: 2147454836	Blocks: 4194256    IO Block: 4096   regular file
+Device: 8,33	Inode: 144330021   Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-26 21:00:00.000000000 -0300
+Modify: 2024-04-27 11:49:42.000000000 -0300
+Change: 2024-04-27 18:00:05.275886745 -0300
+ Birth: 2024-04-27 17:59:11.235875153 -0300
+IPFS hash: QmNMgSQ7adRhGPr27SCLePmW4FwAgVPgT3huGPMnf9nfpY
+------------------------------
+  File: ./alcatel/rec_20240428-0514.wav
+  Size: 617692868 	Blocks: 1206440    IO Block: 4096   regular file
+Device: 8,33	Inode: 144330027   Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-30 21:00:00.000000000 -0300
+Modify: 2024-04-28 02:14:22.000000000 -0300
+Change: 2024-05-04 17:37:00.303537430 -0300
+ Birth: 2024-05-01 13:36:35.442855727 -0300
+IPFS hash: QmWwJ5bbGaDdGyaXyV7v9KejMi6XGo9Q4dJUsJ5HC21j6e
+------------------------------
+  File: ./alcatel/rec_20240428-1857.wav
+  Size: 2147454836	Blocks: 4194256    IO Block: 4096   regular file
+Device: 8,33	Inode: 144330028   Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-30 21:00:00.000000000 -0300
+Modify: 2024-04-28 15:57:14.000000000 -0300
+Change: 2024-05-04 17:37:00.308537416 -0300
+ Birth: 2024-05-01 13:36:42.497738024 -0300
+IPFS hash: QmZakUBF7gRyzqhN7T7S3rrWMiaJBDcxgB8o7A1cMvc556
+------------------------------
+  File: ./alcatel/rec_20240425-0124.wav
+  Size: 214008524 	Blocks: 418000     IO Block: 4096   regular file
+Device: 8,33	Inode: 144330015   Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-26 21:00:00.000000000 -0300
+Modify: 2024-04-24 22:24:42.000000000 -0300
+Change: 2024-04-27 17:56:03.524994143 -0300
+ Birth: 2024-04-27 17:55:58.113001876 -0300
+IPFS hash: QmS9NxjrW9mYtq9LFogEzH7E9ioP6HcRofjPQ8YTzfpwrJ
+------------------------------
+  File: ./alcatel/rec_20240430-2041.wav
+  Size: 1520151740	Blocks: 2969056    IO Block: 4096   regular file
+Device: 8,33	Inode: 144330033   Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-30 21:00:00.000000000 -0300
+Modify: 2024-04-30 17:41:58.000000000 -0300
+Change: 2024-05-04 17:37:00.327537360 -0300
+ Birth: 2024-05-01 13:38:19.927227867 -0300
+IPFS hash: QmNf8Zhn33pEisAgeYhr1DiRiNEprdabP1VWKTE9DERmVT
+------------------------------
+  File: ./alcatel/rec_20240424-0314.wav
+  Size: 635611580 	Blocks: 1241440    IO Block: 4096   regular file
+Device: 8,33	Inode: 144330012   Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-26 21:00:00.000000000 -0300
+Modify: 2024-04-24 00:14:32.000000000 -0300
+Change: 2024-04-27 17:54:35.782155003 -0300
+ Birth: 2024-04-27 17:54:19.761193081 -0300
+IPFS hash: QmbrXEyRdQWYi2YFAQiq5q3L5CezoQkDjbYeakqNq7Vb66
+------------------------------
+  File: ./alcatel/rec_20240421-0049.wav
+  Size: 1198849724	Blocks: 2341512    IO Block: 4096   regular file
+Device: 8,33	Inode: 144330004   Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-26 21:00:00.000000000 -0300
+Modify: 2024-04-20 21:49:02.000000000 -0300
+Change: 2024-04-27 17:49:39.076425167 -0300
+ Birth: 2024-04-27 17:49:09.070635129 -0300
+IPFS hash: QmRwpXMiQTEwsg7k9dtdnFFYyr4bVGDhkZQZUfWNdjeyHa
+------------------------------
+  File: ./alcatel/rec_20240427-0107.wav
+  Size: 1877280596	Blocks: 3666576    IO Block: 4096   regular file
+Device: 8,33	Inode: 144330020   Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-26 21:00:00.000000000 -0300
+Modify: 2024-04-26 22:07:22.000000000 -0300
+Change: 2024-04-27 17:59:11.235875153 -0300
+ Birth: 2024-04-27 17:58:23.491880412 -0300
+IPFS hash: QmPSyBftBvgoDQ53X9bpnsPnaLees6F7hMZGAYH54PkVNk
+------------------------------
+  File: ./alcatel/rec_20240426-1308.wav
+  Size: 677563028 	Blocks: 1323376    IO Block: 4096   regular file
+Device: 8,33	Inode: 144330019   Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-26 21:00:00.000000000 -0300
+Modify: 2024-04-26 10:08:12.000000000 -0300
+Change: 2024-04-27 17:58:23.491880412 -0300
+ Birth: 2024-04-27 17:58:06.510886068 -0300
+IPFS hash: Qmawuj7WotMLfBUM9Bus5odtLdopKtQeWzDueYRitCsF8P
+------------------------------
+  File: ./alcatel/rec_20240423-2310.wav
+  Size: 1892623868	Blocks: 3696544    IO Block: 4096   regular file
+Device: 8,33	Inode: 144330011   Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-26 21:00:00.000000000 -0300
+Modify: 2024-04-23 20:10:52.000000000 -0300
+Change: 2024-04-27 17:54:19.761193081 -0300
+ Birth: 2024-04-27 17:53:31.559325539 -0300
+IPFS hash: QmcvQnKUDpVD7adsndpu7fLJtHXtFeNyayjzepAV9Xb4XE
+------------------------------
+  File: ./alcatel/rec_20240423-1107.wav
+  Size: 1659468932	Blocks: 3241160    IO Block: 4096   regular file
+Device: 8,33	Inode: 144330010   Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-26 21:00:00.000000000 -0300
+Modify: 2024-04-23 08:07:42.000000000 -0300
+Change: 2024-04-27 17:53:31.559325539 -0300
+ Birth: 2024-04-27 17:52:48.876466874 -0300
+IPFS hash: QmadJhAscwHjHBEpjfMy4hvLRy6XbJPCRpV7KtMUCP3rdp
+------------------------------
+  File: ./alcatel/.folderstamp1.log.html5
+  Size: 1341      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,33	Inode: 144330023   Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-26 21:00:00.000000000 -0300
+Modify: 2024-04-27 17:49:00.000000000 -0300
+Change: 2024-04-27 18:00:05.283886748 -0300
+ Birth: 2024-04-27 18:00:05.280886746 -0300
+IPFS hash: QmcXgB8H3kTwLr5uGHJiavy1J6f2igVmquMvYehJVepF2U
+------------------------------
+  File: ./alcatel/.folderstamp1
+  Size: 8727      	Blocks: 24         IO Block: 4096   regular file
+Device: 8,33	Inode: 144330022   Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-26 21:00:00.000000000 -0300
+Modify: 2024-04-27 17:39:06.000000000 -0300
+Change: 2024-04-27 18:00:05.279886746 -0300
+ Birth: 2024-04-27 18:00:05.275886745 -0300
+IPFS hash: QmWouRfbCvfDgM94qb3BXCTgrKQ6dd7WNLWPzn5dymPQfo
+------------------------------
+  File: ./alcatel/rec_20240426-0821.wav
+  Size: 2147454836	Blocks: 4194256    IO Block: 4096   regular file
+Device: 8,33	Inode: 144330018   Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-26 21:00:00.000000000 -0300
+Modify: 2024-04-26 05:21:30.000000000 -0300
+Change: 2024-04-27 17:58:06.510886068 -0300
+ Birth: 2024-04-27 17:57:11.696918980 -0300
+IPFS hash: QmTMrgmfEuynJahLiw7vfPPHQuHVX1ed6QWoePwasmb8cR
+------------------------------
+  File: ./alcatel/rec_20240428-0117.wav
+  Size: 1123682156	Blocks: 2194704    IO Block: 4096   regular file
+Device: 8,33	Inode: 144330026   Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-30 21:00:00.000000000 -0300
+Modify: 2024-04-27 22:17:56.000000000 -0300
+Change: 2024-05-04 17:37:00.299537442 -0300
+ Birth: 2024-05-01 13:36:22.655072177 -0300
+IPFS hash: QmQneWdNS6CzNdzw4cz7aYJoiD8fcGz8Ye2FkwgrgZuUjE
+------------------------------
+  File: ./alcatel/rec_20240421-1202.wav
+  Size: 1762454780	Blocks: 3442304    IO Block: 4096   regular file
+Device: 8,33	Inode: 144330005   Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-26 21:00:00.000000000 -0300
+Modify: 2024-04-21 09:02:52.000000000 -0300
+Change: 2024-04-27 17:50:23.580145943 -0300
+ Birth: 2024-04-27 17:49:39.184424445 -0300
+IPFS hash: QmfPNPv26pJuAG9mThj3ECJz7YJunxetLPvaYsmwDGKRqG
+------------------------------
+  File: ./alcatel/rec_20240423-0033.wav
+  Size: 492078428 	Blocks: 961104     IO Block: 4096   regular file
+Device: 8,33	Inode: 144330009   Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-26 21:00:00.000000000 -0300
+Modify: 2024-04-22 21:33:36.000000000 -0300
+Change: 2024-04-27 17:52:48.876466874 -0300
+ Birth: 2024-04-27 17:52:36.336512988 -0300
+IPFS hash: QmaQ5VF5LatiiPAJS4WiatMF6ovoPauneLv1kPdtFtKMHk
+------------------------------
+  File: ./alcatel/rec_20240425-1839.wav
+  Size: 1051876772	Blocks: 2054456    IO Block: 4096   regular file
+Device: 8,33	Inode: 144330017   Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-26 21:00:00.000000000 -0300
+Modify: 2024-04-25 15:39:40.000000000 -0300
+Change: 2024-04-27 17:57:11.696918980 -0300
+ Birth: 2024-04-27 17:56:45.203943440 -0300
+IPFS hash: QmPyfpwzcrUrV4RaYo6LAKqjcccLzLN3rpQeK9vbZALaxm
+------------------------------
+  File: ./alcatel/rec_20240424-1257.wav
+  Size: 1522208564	Blocks: 2973072    IO Block: 4096   regular file
+Device: 8,33	Inode: 144330013   Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-26 21:00:00.000000000 -0300
+Modify: 2024-04-24 09:57:06.000000000 -0300
+Change: 2024-04-27 17:55:14.310074788 -0300
+ Birth: 2024-04-27 17:54:35.782155003 -0300
+IPFS hash: Qmb4jBap1J73Sm6JUM352fbuqgBAurieBhRAHPU8tn2Hsw
+------------------------------
+  File: ./alcatel/rec_20240425-1156.wav
+  Size: 1648532132	Blocks: 3219800    IO Block: 4096   regular file
+Device: 8,33	Inode: 144330016   Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-26 21:00:00.000000000 -0300
+Modify: 2024-04-25 08:56:16.000000000 -0300
+Change: 2024-04-27 17:56:45.203943440 -0300
+ Birth: 2024-04-27 17:56:03.525994141 -0300
+IPFS hash: QmSV5ckJKpBPYZtpnwXfjUCWerZoWGuYwtjGEwmCPAtC8E
+------------------------------
+  File: ./alcatel/rec_20240425-0002.wav
+  Size: 1738933604	Blocks: 3396368    IO Block: 4096   regular file
+Device: 8,33	Inode: 144330014   Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-26 21:00:00.000000000 -0300
+Modify: 2024-04-24 21:02:32.000000000 -0300
+Change: 2024-04-27 17:55:58.113001876 -0300
+ Birth: 2024-04-27 17:55:14.310074788 -0300
+IPFS hash: QmSuffBcw74wRjDwT8gVPuBjrsXq6Um3XqArwkE3q4GUYW
+------------------------------
+  File: ./alcatel/rec_20240422-0957.wav
+  Size: 1523729132	Blocks: 2976048    IO Block: 4096   regular file
+Device: 8,33	Inode: 144330007   Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-26 21:00:00.000000000 -0300
+Modify: 2024-04-22 06:57:44.000000000 -0300
+Change: 2024-04-27 17:51:50.875698823 -0300
+ Birth: 2024-04-27 17:51:12.233881286 -0300
+IPFS hash: QmRX8vHtXu2AV9KHLdyhRXkBXjSdUEyzJR72rziVBDuir8
+------------------------------
+  File: ./alcatel/rec_20240430-0000.wav
+  Size: 1880981468	Blocks: 3673800    IO Block: 4096   regular file
+Device: 8,33	Inode: 144330031   Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-30 21:00:00.000000000 -0300
+Modify: 2024-04-29 21:00:14.000000000 -0300
+Change: 2024-05-04 17:37:00.319537383 -0300
+ Birth: 2024-05-01 13:37:37.535859554 -0300
+IPFS hash: QmUPyMK7JzKV1gLhmVhbEGCmby3WXGcEWyCYfNAaCkLWAn
+------------------------------
+  File: ./alcatel/rec_20240422-0015.wav
+  Size: 1918283012	Blocks: 3746656    IO Block: 4096   regular file
+Device: 8,33	Inode: 144330006   Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-26 21:00:00.000000000 -0300
+Modify: 2024-04-21 21:15:30.000000000 -0300
+Change: 2024-04-27 17:51:12.233881286 -0300
+ Birth: 2024-04-27 17:50:23.580145943 -0300
+IPFS hash: QmaPJQujGPwNgY2BWupXwaJhqCK4yPWMCEUUG2HRZKW1JU
+------------------------------
+  File: ./alcatel/rec_20240429-1201.wav
+  Size: 1849134212	Blocks: 3611600    IO Block: 4096   regular file
+Device: 8,33	Inode: 144330030   Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-30 21:00:00.000000000 -0300
+Modify: 2024-04-29 09:01:50.000000000 -0300
+Change: 2024-05-04 17:37:00.315537395 -0300
+ Birth: 2024-05-01 13:37:16.343189684 -0300
+IPFS hash: QmUnEwKZUuK6vYuLkZ7Z4sJUEURzcJXkbZdqrwJWRKzbBs
+------------------------------
+  File: ./alcatel/rec_20240429-0013.wav
+  Size: 776350556 	Blocks: 1516320    IO Block: 4096   regular file
+Device: 8,33	Inode: 144330029   Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-30 21:00:00.000000000 -0300
+Modify: 2024-04-28 21:13:48.000000000 -0300
+Change: 2024-05-04 17:37:00.312537404 -0300
+ Birth: 2024-05-01 13:37:07.506330299 -0300
+IPFS hash: QmY4b2VMn4qkBD61NmfQyeUMraykaXr7fTQYEE9y2ujojj
+------------------------------
+  File: ./alcatel/rec_20240422-2125.wav
+  Size: 1799347076	Blocks: 3514360    IO Block: 4096   regular file
+Device: 8,33	Inode: 144330008   Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-26 21:00:00.000000000 -0300
+Modify: 2024-04-22 18:25:22.000000000 -0300
+Change: 2024-04-27 17:52:36.336512988 -0300
+ Birth: 2024-04-27 17:51:50.875698823 -0300
+IPFS hash: QmUBbJLym2u2BpF11ccq3sy7v5PQMZArcLZCipG87eN7LV
+------------------------------
+  File: ./alcatel/rec_20240430-1100.wav
+  Size: 1727689868	Blocks: 3374408    IO Block: 4096   regular file
+Device: 8,33	Inode: 144330032   Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-30 21:00:00.000000000 -0300
+Modify: 2024-04-30 08:00:52.000000000 -0300
+Change: 2024-05-04 17:37:00.323537372 -0300
+ Birth: 2024-05-01 13:37:59.246531394 -0300
+IPFS hash: QmamSf9PsE4Z3uP3AmpW8Qx93K6Y7p4fZnJxKhgqBxyvAF
+------------------------------

@@ -1,0 +1,75 @@
+This folder: /media/daniella/44281591-5347-4eba-89a4-559db4e045c0/Dupliced+Outdated - check which ones safe to rmv-updt/extHD 4 TB 17-03-2022/Partition 3 A/tmp use/bkp/note pos HD/149 GB
+
+folderstamp version: r5
+Method: Non-recursive
+
+  File: ./149 GB.tar.xz
+  Size: 3085588648	Blocks: 6026552    IO Block: 4096   regular file
+Device: 8,1	Inode: 124911618   Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-02-29 16:25:45.092377983 -0300
+Modify: 2024-02-29 16:33:55.968016715 -0300
+Change: 2024-02-29 16:33:55.968016715 -0300
+ Birth: 2024-02-29 16:25:45.092377983 -0300
+IPFS hash: QmQZ1rgTmzrJ6HSbWDdPumukBeh5P9sMEvXdjJrXJ7rRtE
+------------------------------
+  File: ./20210416-2256_Recording_91.wav
+  Size: 2147484873	Blocks: 4194320    IO Block: 4096   regular file
+Device: 8,1	Inode: 124914092   Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-02-27 18:27:47.124478692 -0300
+Modify: 2021-04-17 12:27:50.000000000 -0300
+Change: 2022-03-17 19:09:48.793315440 -0300
+ Birth: 2022-03-17 18:57:33.189307256 -0300
+IPFS hash: QmQDTet2xEjhiScR5v3VkHdFHqkZv55RHq7nUHFdueYQFy
+------------------------------
+  File: ./ProgramData.tar.xz
+  Size: 713303692 	Blocks: 1393184    IO Block: 4096   regular file
+Device: 8,1	Inode: 124911619   Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-02-29 16:34:46.480845542 -0300
+Modify: 2024-02-29 16:36:31.935570786 -0300
+Change: 2024-02-29 16:36:31.935570786 -0300
+ Birth: 2024-02-29 16:34:46.480845542 -0300
+IPFS hash: Qmf9bouk58KvtWiNYotjmJHjb3mRXZ4t1sPKMjqZopaAPV
+------------------------------
+  File: ./Program Files.tar.xz
+  Size: 525161868 	Blocks: 1025720    IO Block: 4096   regular file
+Device: 8,1	Inode: 124911620   Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-02-29 16:40:07.410081377 -0300
+Modify: 2024-02-29 16:45:14.448257878 -0300
+Change: 2024-02-29 16:45:14.452257641 -0300
+ Birth: 2024-02-29 16:40:07.410081377 -0300
+IPFS hash: QmZXkLe5Z5qQhTPFeNgVdCpfkBYQne3QcCHWF1SRY5dyJt
+------------------------------
+  File: ./Program Files (x86).tar.xz
+  Size: 396028336 	Blocks: 773504     IO Block: 4096   regular file
+Device: 8,1	Inode: 124911621   Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-02-29 16:40:10.393826668 -0300
+Modify: 2024-02-29 16:43:49.073556093 -0300
+Change: 2024-02-29 16:43:49.073556093 -0300
+ Birth: 2024-02-29 16:40:10.393826668 -0300
+IPFS hash: Qmaa1MtmJL9L35ixyxpcfyPGyY6yEGFHk4wSAHyzSPKkM5
+------------------------------
+  File: ./Users
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: 8,1	Inode: 125371080   Links: 4
+Access: (0777/drwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-03-19 19:42:42.312568883 -0300
+Modify: 2024-02-29 16:41:59.889131070 -0300
+Change: 2024-02-29 16:41:59.889131070 -0300
+ Birth: 2022-03-17 13:50:21.445434756 -0300
+IPFS hash: 
+------------------------------
+  File: ./Windows.tar.xz
+  Size: 6602271120	Blocks: 12895080   IO Block: 4096   regular file
+Device: 8,1	Inode: 124911617   Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-02-29 15:35:16.315855310 -0300
+Modify: 2024-02-29 16:21:01.291659774 -0300
+Change: 2024-02-29 16:21:01.375659907 -0300
+ Birth: 2024-02-29 15:35:16.315855310 -0300
+IPFS hash: Qmdo8SqEC3HpWNFZzuVKiY9jFqosA2fWLLERdKfq5nDKW8
+------------------------------

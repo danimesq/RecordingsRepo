@@ -1,0 +1,35 @@
+This folder: /media/daniella/44281591-5347-4eba-89a4-559db4e045c0/Dupliced+Outdated - check which ones safe to rmv-updt/extHD 4 TB 17-03-2022/Partition 3 A/tmp use/bkp/note pos HD/149 GB/Users/aurea/Documents
+
+folderstamp version: r5
+Method: Non-recursive
+
+  File: ./Documents.tar.xz
+  Size: 424       	Blocks: 8          IO Block: 4096   regular file
+Device: 8,1	Inode: 125370369   Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-02-29 17:20:23.022677334 -0300
+Modify: 2024-02-29 17:20:23.046676667 -0300
+Change: 2024-02-29 17:20:23.046676667 -0300
+ Birth: 2024-02-29 17:20:23.022677334 -0300
+IPFS hash: QmXUnXjUg39vNHnPVLnYgBbuMe36zg4yd8deCrSjaMmbta
+------------------------------
+  File: ./invent e contexto, trnscrb - 30 35 vc nao trab.wma
+  Size: 4900745689	Blocks: 9571784    IO Block: 4096   regular file
+Device: 8,1	Inode: 125371135   Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-02-29 17:19:53.951485505 -0300
+Modify: 2021-02-04 10:55:21.771869000 -0300
+Change: 2022-03-17 14:53:23.769810657 -0300
+ Birth: 2022-03-17 13:52:40.714580721 -0300
+IPFS hash: QmeQd9BARsBMAmoF7QeDcyBy3VT8F3sd3QMuAkNhgtM4Ux
+------------------------------
+  File: ./Untitled.wma
+  Size: 2781595899	Blocks: 5432816    IO Block: 4096   regular file
+Device: 8,1	Inode: 125371134   Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-02-29 17:14:35.120421619 -0300
+Modify: 2021-01-29 18:54:57.085761000 -0300
+Change: 2022-03-17 13:52:40.694580557 -0300
+ Birth: 2022-03-17 13:50:22.509443596 -0300
+IPFS hash: QmX1dmodrMAEi2QbNEZcz3UZrpSfqaZ5y7uSXcV7wJoB92
+------------------------------

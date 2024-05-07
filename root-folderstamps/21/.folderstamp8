@@ -1,0 +1,65 @@
+This folder: /media/daniella/9C33-6BBD/SD-DO/0.Recordings
+
+folderstamp version: r5
+Method: Non-recursive
+
+  File: ./Voice Recorder
+  Size: 262144    	Blocks: 512        IO Block: 262144 directory
+Device: 8,97	Inode: 9578        Links: 3
+Access: (0755/drwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-03-18 17:56:12.000000000 -0300
+Modify: 2024-03-18 17:56:14.240000000 -0300
+Change: 2024-03-18 17:56:14.240000000 -0300
+ Birth: 2024-03-18 17:56:13.250000000 -0300
+IPFS hash: 
+------------------------------
+  File: ./Voz 1389_sd.m4a
+  Size: 117020282 	Blocks: 228864     IO Block: 262144 regular file
+Device: 8,97	Inode: 9583        Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-03-22 23:38:16.000000000 -0300
+Modify: 2024-03-23 00:38:39.000000000 -0300
+Change: 2024-03-23 00:38:39.000000000 -0300
+ Birth: 2024-05-04 16:40:46.000000000 -0300
+IPFS hash: QmcCYWrC9N8TcLMdVRY98kGfJ3yJ1reaJ3VAb8ntskVi8k
+------------------------------
+  File: ./Voz 1390_sd.m4a
+  Size: 153803153 	Blocks: 300544     IO Block: 262144 regular file
+Device: 8,97	Inode: 9584        Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-03-23 00:46:54.000000000 -0300
+Modify: 2024-03-23 02:06:16.000000000 -0300
+Change: 2024-03-23 02:06:16.000000000 -0300
+ Birth: 2024-05-04 16:40:46.000000000 -0300
+IPFS hash: Qmf4sRQusvAwrV17aCdNfAHt7UjDYsiaD6kuUgbMUAVwAX
+------------------------------
+  File: ./Voz 1391_sd.m4a
+  Size: 209149420 	Blocks: 408576     IO Block: 262144 regular file
+Device: 8,97	Inode: 9585        Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-03-23 02:13:38.000000000 -0300
+Modify: 2024-03-23 05:16:26.000000000 -0300
+Change: 2024-03-23 05:16:26.000000000 -0300
+ Birth: 2024-05-04 16:40:46.000000000 -0300
+IPFS hash: QmTQ6bqcvdZs1AvmUBMtxr6CkqqHxS3yNVK6gTYHMf6jJL
+------------------------------
+  File: ./Voz 1392_sd.m4a
+  Size: 1163347154	Blocks: 2272256    IO Block: 262144 regular file
+Device: 8,97	Inode: 9586        Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-03-23 05:16:30.000000000 -0300
+Modify: 2024-03-23 15:16:33.000000000 -0300
+Change: 2024-03-23 15:16:33.000000000 -0300
+ Birth: 2024-05-04 16:40:46.000000000 -0300
+IPFS hash: QmVt3jwVB5sP3Y4qqQjkDnmfFvgAaxaAjdBKJTnzKQbrrA
+------------------------------
+  File: ./Voz 1393_sd.m4a
+  Size: 947628302 	Blocks: 1850880    IO Block: 262144 regular file
+Device: 8,97	Inode: 9587        Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-03-23 19:13:16.000000000 -0300
+Modify: 2024-03-24 03:22:02.000000000 -0300
+Change: 2024-03-24 03:22:02.000000000 -0300
+ Birth: 2024-05-04 16:40:46.000000000 -0300
+IPFS hash: QmbfTuRvJm8yi5wh7QThHFEKNgRAEJi69S59CCFyYTcTPc
+------------------------------

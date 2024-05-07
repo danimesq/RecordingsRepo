@@ -1,0 +1,32 @@
+This folder: /media/daniella/Seagate Expansion Drive/Partitions/A/tmp use/DiaryLog/Recordings/Audio/External-Surroundings/MaybeUnknown date
+
+  File: ./FR0001.WAV
+  Size: 22147192  	Blocks: 43264      IO Block: 4096   regular file
+Device: 8,2	Inode: 829823      Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-11-11 22:09:48.706970300 -0300
+Modify: 2020-05-29 05:50:52.060948900 -0300
+Change: 2023-11-11 22:08:58.034517800 -0300
+ Birth: -
+IPFS hash: QmakgLCGdWvqydLPAgodKFKhhsdbpvvXHREsUXFCJtbSNZ
+------------------------------
+  File: ./FR0002.WAV
+  Size: 210521208 	Blocks: 411176     IO Block: 4096   regular file
+Device: 8,2	Inode: 829824      Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-11-11 22:09:48.888136800 -0300
+Modify: 2020-05-29 05:51:23.709226900 -0300
+Change: 2023-11-11 22:09:02.022626400 -0300
+ Birth: -
+IPFS hash: QmZnZJnae3pL4BFQPVHnzuW7o5yZrFAGDmdgS1e7x6Q5ec
+------------------------------
+  File: ./FR0003.WAV
+  Size: 114644088 	Blocks: 223920     IO Block: 4096   regular file
+Device: 8,2	Inode: 829825      Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-11-11 22:09:50.381016000 -0300
+Modify: 2020-05-29 05:51:40.727346900 -0300
+Change: 2023-11-11 22:09:04.234533100 -0300
+ Birth: -
+IPFS hash: QmW12DuWgCyHjwEtiDu8LDfGwta72aNR4r8muFuMMocaLF
+------------------------------

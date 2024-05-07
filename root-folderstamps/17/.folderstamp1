@@ -1,0 +1,85 @@
+This folder: /media/daniella/44281591-5347-4eba-89a4-559db4e045c0/Dupliced+Outdated - check which ones safe to rmv-updt/extHD 4 TB 17-03-2022/Partition 3 A/tmp use/imp rc
+
+folderstamp version: r5
+Method: Non-recursive
+
+  File: ./20220130-2019_Recording_606.wav
+  Size: 804384094 	Blocks: 1571072    IO Block: 4096   regular file
+Device: 8,1	Inode: 124846476   Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-02-27 18:27:30.877171505 -0300
+Modify: 2022-01-31 01:23:50.000000000 -0300
+Change: 2022-03-17 11:15:24.817732067 -0300
+ Birth: 2022-03-17 11:14:55.901676409 -0300
+IPFS hash: QmfUPpUzddaByhYgtb2RZsbU2MmpVyeU1zcz5G3G6BtsMx
+------------------------------
+  File: ./20220131-1343_Recording_607.wav
+  Size: 931784584 	Blocks: 1819904    IO Block: 4096   regular file
+Device: 8,1	Inode: 124846477   Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-02-27 18:27:30.753176880 -0300
+Modify: 2022-01-31 19:35:20.000000000 -0300
+Change: 2022-03-17 11:16:12.685824208 -0300
+ Birth: 2022-03-17 11:15:24.817732067 -0300
+IPFS hash: QmY53mMD6CiE8m3mAQcQ44vLMuFXohfHdd4UTPkb4AffMw
+------------------------------
+  File: ./20220204-0941_Recording_609.wav
+  Size: 827532184 	Blocks: 1616288    IO Block: 4096   regular file
+Device: 8,1	Inode: 124846478   Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-02-27 18:27:30.653181214 -0300
+Modify: 2022-02-04 15:09:13.000000000 -0300
+Change: 2022-03-17 11:16:53.257902302 -0300
+ Birth: 2022-03-17 11:16:12.685824208 -0300
+IPFS hash: QmZZA6JGAdXnUvGdpzGUdNeLDkT2zE2Su6CES9kME93W4u
+------------------------------
+  File: ./20220207-1104_Recording_614.wav
+  Size: 2147449594	Blocks: 4194248    IO Block: 4096   regular file
+Device: 8,1	Inode: 124846479   Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-02-27 18:27:30.649181387 -0300
+Modify: 2022-02-08 00:35:59.000000000 -0300
+Change: 2022-03-17 11:18:48.542124204 -0300
+ Birth: 2022-03-17 11:16:53.257902302 -0300
+IPFS hash: QmP4LJs9qmTcg8MC5om8c3GySPyrJHFsw7DBkSXKP25iZU
+------------------------------
+  File: ./20220208-0934_Recording_615.wav
+  Size: 2147449594	Blocks: 4194248    IO Block: 4096   regular file
+Device: 8,1	Inode: 124846480   Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-02-27 18:27:30.337194910 -0300
+Modify: 2022-02-08 23:06:34.000000000 -0300
+Change: 2022-03-17 11:20:36.146331323 -0300
+ Birth: 2022-03-17 11:18:48.542124204 -0300
+IPFS hash: QmVpCXUaQJd2yzLdjFChz7EjPszb76ntnxK1eG4QhTkftf
+------------------------------
+  File: ./20220208-2325_Recording_616.wav
+  Size: 2147449594	Blocks: 4194248    IO Block: 4096   regular file
+Device: 8,1	Inode: 124846481   Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-02-27 18:27:30.437190576 -0300
+Modify: 2022-02-09 12:56:51.000000000 -0300
+Change: 2022-03-17 11:22:23.986538896 -0300
+ Birth: 2022-03-17 11:20:36.146331323 -0300
+IPFS hash: QmScE7GsScqH96XTgq7ZuYVGGezu124khr3Ko2ubrYXt38
+------------------------------
+  File: ./20220209-1348_Recording_617.wav
+  Size: 1846789024	Blocks: 3607024    IO Block: 4096   regular file
+Device: 8,1	Inode: 124846482   Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-02-27 18:27:30.337194910 -0300
+Modify: 2022-02-10 01:26:24.000000000 -0300
+Change: 2022-03-17 11:23:55.566715170 -0300
+ Birth: 2022-03-17 11:22:23.986538896 -0300
+IPFS hash: QmSpaa13yh1etFuzgsBBDCAyKKUcdHjRoUw5twnBr9dscF
+------------------------------
+  File: ./20220210-0126_Recording_618.wav
+  Size: 2147449594	Blocks: 4194248    IO Block: 4096   regular file
+Device: 8,1	Inode: 124846483   Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-02-27 18:27:30.113204619 -0300
+Modify: 2022-02-10 15:05:22.000000000 -0300
+Change: 2022-03-17 11:25:46.578928850 -0300
+ Birth: 2022-03-17 11:23:55.566715170 -0300
+IPFS hash: QmSWdTagQ4394bFQcW2HJkjsJ8Mb39RnwHQAY8R3au17ww
+------------------------------

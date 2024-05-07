@@ -1,0 +1,115 @@
+This folder: /media/daniella/44281591-5347-4eba-89a4-559db4e045c0/non-backup/Partitions/A/tmp use/DiaryLog/Recordings/Audio/External-Surroundings/2022/03
+
+folderstamp version: r5
+Method: Recursive
+
+  File: ./20220305-1204_Recording_659.wav
+  Size: 24916594  	Blocks: 48672      IO Block: 4096   regular file
+Device: 8,33	Inode: 144506902   Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-03-20 04:03:48.463845889 -0300
+Modify: 2022-03-05 10:40:32.000000000 -0300
+Change: 2024-03-20 03:43:59.967359521 -0300
+ Birth: 2024-03-20 03:43:58.823383797 -0300
+IPFS hash: QmdLunDhjkCUfmc6JP7VEeTJA1Z1sFKHQSDAMEPfrWKeKm
+------------------------------
+  File: ./20220305-1340_Recording_660.wav
+  Size: 1690494214	Blocks: 3301760    IO Block: 4096   regular file
+Device: 8,33	Inode: 144506903   Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-03-20 04:03:48.675868590 -0300
+Modify: 2022-03-05 21:19:28.000000000 -0300
+Change: 2024-03-20 03:45:19.661769048 -0300
+ Birth: 2024-03-20 03:43:59.967359521 -0300
+IPFS hash: QmZ9DaBcF5JPhrACwep68KejJUD9sVcm7VVS3sVBTcryR5
+------------------------------
+  File: ./.folderstamp
+  Size: 1175      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,33	Inode: 144506979   Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-21 11:18:58.266659516 -0300
+Modify: 2024-04-21 11:19:12.766719846 -0300
+Change: 2024-04-21 11:19:12.766719846 -0300
+ Birth: 2024-04-21 11:18:58.266659516 -0300
+IPFS hash: QmcGSXY3BZR4FmcG9DsNG3LSmaeoKTX1SmyxkacPiWjzvn
+------------------------------
+  File: ./20220308-2342_Recording_667.wav
+  Size: 2147449594	Blocks: 4194248    IO Block: 4096   regular file
+Device: 8,33	Inode: 144506904   Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-03-20 04:04:02.213302772 -0300
+Modify: 2022-03-09 10:21:12.000000000 -0300
+Change: 2024-03-20 03:47:10.359850814 -0300
+ Birth: 2024-03-20 03:45:19.661769048 -0300
+IPFS hash: Qmc6UroicPZRdzXbW49b3K5aKznFYEm3hsZXeB2mxG7HCZ
+------------------------------
+  File: ./.folderstamp1.log.html5
+  Size: 2150      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,33	Inode: 144506907   Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-03-19 21:00:00.000000000 -0300
+Modify: 2023-12-19 16:02:40.000000000 -0300
+Change: 2024-03-20 03:48:33.674593819 -0300
+ Birth: 2024-03-20 03:48:33.674593819 -0300
+IPFS hash: QmWW9jyr2nWLApkzK4vN4VJeyVpBKUYv4QvgcuYkyUqSrt
+------------------------------
+  File: ./.folderstamp1
+  Size: 2901      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,33	Inode: 144506906   Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-03-20 05:54:42.250678626 -0300
+Modify: 2023-12-19 16:02:10.000000000 -0300
+Change: 2024-03-20 03:48:33.670593876 -0300
+ Birth: 2024-03-20 03:48:33.666593932 -0300
+IPFS hash: QmNknJaR78CVr2FTHva76oEpposJWpNKKyhgfN4FZKCiMt
+------------------------------
+  File: ./.folderstamp2.log.html5
+  Size: 2130      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,33	Inode: 144506910   Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-03-20 05:54:34.226108151 -0300
+Modify: 2024-03-20 05:54:34.230108437 -0300
+Change: 2024-03-20 05:54:38.878439725 -0300
+ Birth: 2024-03-20 05:54:34.226108151 -0300
+IPFS hash: QmTpvse6qb8k3sce7ES8Byr1U2mszeG15XtVsuYHhadvN6
+------------------------------
+  File: ./20220309-1351_Recording_668.wav
+  Size: 1748251984	Blocks: 3414568    IO Block: 4096   regular file
+Device: 8,33	Inode: 144506905   Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-03-20 04:04:18.963036916 -0300
+Modify: 2022-03-09 21:52:42.000000000 -0300
+Change: 2024-03-20 03:48:33.666593932 -0300
+ Birth: 2024-03-20 03:47:10.359850814 -0300
+IPFS hash: QmZwEgKnzy8q25M2dSk53mYmhB7H1JNJJGSE21rA63G4xY
+------------------------------
+  File: ./20220304-2259_Recording_658.wav
+  Size: 2072920594	Blocks: 4048688    IO Block: 4096   regular file
+Device: 8,33	Inode: 144506901   Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-03-20 04:03:33.734250774 -0300
+Modify: 2022-03-05 09:04:10.000000000 -0300
+Change: 2024-03-20 03:43:58.823383797 -0300
+ Birth: 2024-03-20 03:42:18.757684982 -0300
+IPFS hash: QmWAsVbG5a8NjHtjS4faTpmxaxdB8Va2rbEdFEmymTMxgu
+------------------------------
+  File: ./.folderstamp2
+  Size: 3034      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,33	Inode: 144506908   Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-03-20 05:54:43.862792416 -0300
+Modify: 2024-03-20 04:04:32.896446417 -0300
+Change: 2024-03-20 05:54:17.048863746 -0300
+ Birth: 2024-03-20 04:03:33.634239818 -0300
+IPFS hash: QmZnxunEcYe3YXYcNvBKfcp7YarBJq49sKviTt31Wpjzup
+------------------------------
+  File: ./.folderstamp1.device.txt
+  Size: 49        	Blocks: 8          IO Block: 4096   regular file
+Device: 8,33	Inode: 144506911   Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-03-20 16:18:40.477227292 -0300
+Modify: 2024-03-20 16:18:40.477227292 -0300
+Change: 2024-03-20 16:18:40.517230815 -0300
+ Birth: 2024-03-20 16:18:40.477227292 -0300
+IPFS hash: QmZ8uB4753kMoQhnDAqNaxG58CDhdoW3Ad9Y9oeoCnYWGT
+------------------------------

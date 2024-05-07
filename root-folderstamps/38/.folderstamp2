@@ -1,0 +1,45 @@
+This folder: /media/daniella/44281591-5347-4eba-89a4-559db4e045c0/non-backup/Partitions/A/tmp use/DiaryLog/Recordings/Audio/External-Surroundings/A_on-hold-until-adding-new-file-detection-server-to-danimesq/2024/04-05
+
+folderstamp version: r5
+Method: Recursive
+
+  File: ./.folderstamp
+  Size: 261       	Blocks: 8          IO Block: 4096   regular file
+Device: 8,33	Inode: 144330111   Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-04 17:50:06.609512643 -0300
+Modify: 2024-05-04 17:50:06.639512450 -0300
+Change: 2024-05-04 17:50:06.639512450 -0300
+ Birth: 2024-05-04 17:50:06.609512643 -0300
+IPFS hash: QmarbdTyPEJuYayXKw6P5Ksm7JQZPaaeBYSN8uYTj83HiE
+------------------------------
+  File: ./rec_20240501-0608.wav
+  Size: 1478620124	Blocks: 2887944    IO Block: 4096   regular file
+Device: 8,33	Inode: 144330024   Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-30 21:00:00.000000000 -0300
+Modify: 2024-05-01 03:08:06.000000000 -0300
+Change: 2024-05-01 13:35:53.873574430 -0300
+ Birth: 2024-05-01 13:35:36.891880955 -0300
+IPFS hash: QmYr5BnmTgNNvknJSKkNQB1p6cBN5PWQwPXvovYuNrxs3W
+------------------------------
+  File: ./.folderstamp1.log.html5
+  Size: 1344      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,33	Inode: 144330042   Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-04-30 21:00:00.000000000 -0300
+Modify: 2024-05-01 13:40:10.000000000 -0300
+Change: 2024-05-01 13:40:53.584217136 -0300
+ Birth: 2024-05-01 13:40:53.580217183 -0300
+IPFS hash: QmQYZhaYcNkh1a7ZUoZD7JacEK31wx76vtzRRQK3YkfF1z
+------------------------------
+  File: ./.folderstamp1
+  Size: 6340      	Blocks: 16         IO Block: 4096   regular file
+Device: 8,33	Inode: 144330025   Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-05-04 16:14:04.408131037 -0300
+Modify: 2024-05-01 13:14:18.000000000 -0300
+Change: 2024-05-01 13:36:03.602402271 -0300
+ Birth: 2024-05-01 13:35:59.888467699 -0300
+IPFS hash: QmURq22HJtTaYU1anvRFfsz8HmptxeFqbin2j4iY6ifuf9
+------------------------------

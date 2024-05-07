@@ -1,0 +1,125 @@
+This folder: /media/daniella/A/tmp use/DiaryLog/Recordings/Audio/External-Surroundings/2022/imp rc
+
+folderstamp version: r5
+Method: Recursive
+
+  File: ./.folderstamp
+  Size: 142       	Blocks: 1          IO Block: 4096   regular file
+Device: 8,51	Inode: 1579        Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: (    0/    root)   Gid: (    0/    root)
+Access: 2024-04-21 11:58:06.402340800 -0300
+Modify: 2024-04-21 11:58:05.992185900 -0300
+Change: 2024-04-21 11:58:05.992185900 -0300
+ Birth: -
+IPFS hash: QmSywNawZ4B1Q6Bq4iAfTkUvBbhF9FkCh5SCuoagjRUf39
+------------------------------
+  File: ./.folderstamp1
+  Size: 4191      	Blocks: 16         IO Block: 4096   regular file
+Device: 8,51	Inode: 68          Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: (    0/    root)   Gid: (    0/    root)
+Access: 2024-04-21 11:56:09.668612300 -0300
+Modify: 2023-01-07 23:54:32.155479400 -0300
+Change: 2024-03-19 19:40:40.829039900 -0300
+ Birth: -
+IPFS hash: QmRc7u4mGcwusonLbf4wYV7wFLFHcq9BKKcLUzrxkacCGv
+------------------------------
+  File: ./.ls1
+  Size: 279       	Blocks: 1          IO Block: 4096   regular file
+Device: 8,51	Inode: 1570        Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: (    0/    root)   Gid: (    0/    root)
+Access: 2024-03-19 19:40:38.760375400 -0300
+Modify: 2024-03-19 19:40:38.230458100 -0300
+Change: 2024-03-19 19:40:38.230458100 -0300
+ Birth: -
+IPFS hash: QmRyt7skEDCZMEmnzFwuZgJkYNxhqQwPRx2jeJSAWo5qxv
+------------------------------
+  File: ./.ls2
+  Size: 285       	Blocks: 1          IO Block: 4096   regular file
+Device: 8,51	Inode: 1571        Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: (    0/    root)   Gid: (    0/    root)
+Access: 2024-03-19 19:40:42.788032000 -0300
+Modify: 2024-03-19 19:40:42.787194800 -0300
+Change: 2024-03-19 19:40:42.787194800 -0300
+ Birth: -
+IPFS hash: QmagG3WpxuWG2BkNY8qWmmQY3zzh5CEJvhRpftx2RW4wAH
+------------------------------
+  File: ./20220130-2019_Recording_606.wav
+  Size: 804384094 	Blocks: 1571064    IO Block: 4096   regular file
+Device: 8,51	Inode: 2864793     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: (    0/    root)   Gid: (    0/    root)
+Access: 2022-12-16 11:57:25.081311800 -0300
+Modify: 2022-01-31 01:23:50.000000000 -0300
+Change: 2022-02-23 11:41:10.051015800 -0300
+ Birth: -
+IPFS hash: QmfUPpUzddaByhYgtb2RZsbU2MmpVyeU1zcz5G3G6BtsMx
+------------------------------
+  File: ./20220131-1343_Recording_607.wav
+  Size: 931784584 	Blocks: 1819896    IO Block: 4096   regular file
+Device: 8,51	Inode: 2864794     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: (    0/    root)   Gid: (    0/    root)
+Access: 2022-12-16 11:57:25.112562400 -0300
+Modify: 2022-01-31 19:35:20.000000000 -0300
+Change: 2022-02-23 11:41:57.393458200 -0300
+ Birth: -
+IPFS hash: QmY53mMD6CiE8m3mAQcQ44vLMuFXohfHdd4UTPkb4AffMw
+------------------------------
+  File: ./20220204-0941_Recording_609.wav
+  Size: 827532184 	Blocks: 1616280    IO Block: 4096   regular file
+Device: 8,51	Inode: 2864795     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: (    0/    root)   Gid: (    0/    root)
+Access: 2022-12-16 11:57:25.206718000 -0300
+Modify: 2022-02-04 15:09:13.000000000 -0300
+Change: 2022-02-23 11:42:38.767823800 -0300
+ Birth: -
+IPFS hash: QmZZA6JGAdXnUvGdpzGUdNeLDkT2zE2Su6CES9kME93W4u
+------------------------------
+  File: ./20220207-1104_Recording_614.wav
+  Size: 2147449594	Blocks: 4194240    IO Block: 4096   regular file
+Device: 8,51	Inode: 2864796     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: (    0/    root)   Gid: (    0/    root)
+Access: 2022-12-16 11:57:25.332123500 -0300
+Modify: 2022-02-08 00:35:59.000000000 -0300
+Change: 2022-02-23 11:44:31.217961400 -0300
+ Birth: -
+IPFS hash: QmP4LJs9qmTcg8MC5om8c3GySPyrJHFsw7DBkSXKP25iZU
+------------------------------
+  File: ./20220208-0934_Recording_615.wav
+  Size: 2147449594	Blocks: 4194240    IO Block: 4096   regular file
+Device: 8,51	Inode: 2864799     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: (    0/    root)   Gid: (    0/    root)
+Access: 2022-12-16 11:57:25.410646900 -0300
+Modify: 2022-02-08 23:06:34.000000000 -0300
+Change: 2022-02-23 11:46:20.489734500 -0300
+ Birth: -
+IPFS hash: QmVpCXUaQJd2yzLdjFChz7EjPszb76ntnxK1eG4QhTkftf
+------------------------------
+  File: ./20220208-2325_Recording_616.wav
+  Size: 2147449594	Blocks: 4194240    IO Block: 4096   regular file
+Device: 8,51	Inode: 2864802     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: (    0/    root)   Gid: (    0/    root)
+Access: 2022-12-16 11:57:25.457917200 -0300
+Modify: 2022-02-09 12:56:51.000000000 -0300
+Change: 2022-02-23 11:48:12.083482900 -0300
+ Birth: -
+IPFS hash: QmScE7GsScqH96XTgq7ZuYVGGezu124khr3Ko2ubrYXt38
+------------------------------
+  File: ./20220209-1348_Recording_617.wav
+  Size: 1846789024	Blocks: 3607016    IO Block: 4096   regular file
+Device: 8,51	Inode: 2864803     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: (    0/    root)   Gid: (    0/    root)
+Access: 2022-12-16 11:57:25.520422600 -0300
+Modify: 2022-02-10 01:26:24.000000000 -0300
+Change: 2022-02-23 11:49:45.537289400 -0300
+ Birth: -
+IPFS hash: QmSpaa13yh1etFuzgsBBDCAyKKUcdHjRoUw5twnBr9dscF
+------------------------------
+  File: ./20220210-0126_Recording_618.wav
+  Size: 2147449594	Blocks: 4194240    IO Block: 4096   regular file
+Device: 8,51	Inode: 2864804     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: (    0/    root)   Gid: (    0/    root)
+Access: 2022-12-16 11:57:25.520422600 -0300
+Modify: 2022-02-10 15:05:22.000000000 -0300
+Change: 2022-02-23 11:51:35.256593300 -0300
+ Birth: -
+IPFS hash: QmSWdTagQ4394bFQcW2HJkjsJ8Mb39RnwHQAY8R3au17ww
+------------------------------
